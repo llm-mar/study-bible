@@ -6,11 +6,24 @@ The goal of a Study Bible project built with LLM-MAR is to create a collaborativ
 
 This project leverages LLM-MAR (Multi Agent Reasoning), a compact CLI that creates LLM agents, lets them debate, answers questions, and builds workflows, to facilitate multi-perspective biblical study.
 
+**Repository:** https://github.com/yourusername/study-bible
+
 
 ## Studied Books
 
 - [Matthew](study-bible/matthew/)
 - [Mark](study-bible/mark/)
+
+
+## Greek Text Source
+
+The Greek New Testament text used in this project comes from the Open Greek New Testament (OGNT). You can view the original Greek text for any verse at:
+
+**https://opengnt.com/**
+
+For example, Matthew 1:1:
+https://opengnt.com/index.html?OGNT&40.1.1
+
 
 
 ## How to Use
