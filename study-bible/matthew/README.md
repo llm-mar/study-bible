@@ -5,7 +5,10 @@
 | Chapter | Link |
 | --- | --- |
 | 1 | [Chapter 1](1/) |
-<!-- | 2 | [Chapter 2](2/) |
+
+<!-- ```
+Not Ready yet
+| 2 | [Chapter 2](2/) |
 | 3 | [Chapter 3](3/) |
 | 4 | [Chapter 4](4/) |
 | 5 | [Chapter 5](5/) |
@@ -31,4 +34,5 @@
 | 25 | [Chapter 25](25/) |
 | 26 | [Chapter 26](26/) |
 | 27 | [Chapter 27](27/) |
-| 28 | [Chapter 28](28/) | -->
+| 28 | [Chapter 28](28/) |
+``` -->
