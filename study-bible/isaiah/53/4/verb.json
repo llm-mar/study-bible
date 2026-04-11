@@ -1,0 +1,34 @@
+{
+  "verbs": [
+    {
+      "verb": "נָשָׂא",
+      "translation": "bore; carried",
+      "summary": "נָשָׂא appears in the clause “חֳלָיֵנוּ הוּא נָשָׂא” (“he bore our sicknesses”). It is a Hebrew Qal perfect verb (3rd masculine singular), functioning as the main predicate. The voice is active (from the subject “he”), and the perfect tense presents the action as completed/affirmed. Semantically, it expresses substitutionary bearing—our ailments are attributed to the subject as something he takes upon himself."
+    },
+    {
+      "verb": "סְבָלָם",
+      "translation": "carried; bore them",
+      "summary": "סְבָלָם occurs in “וּמַכְאֹבֵינוּ סְבָלָם” (“and our pains he carried/them he bore”). It is derived from the root סבל and functions verbally as the predicate of the clause, marked with a pronominal suffix “them” (our pains). Grammatically it behaves like a perfect-form predication (continuing the assertion made by נָשָׂא): a completed, affirmed action attributed to the subject. Voice is effectively active (the subject carries/bears), and the meaning is intensified parallelism with the preceding “nasa’.”"
+    },
+    {
+      "verb": "חֲשַׁבְנֻהוּ",
+      "translation": "thought; considered him",
+      "summary": "חֲשַׁבְנֻהוּ appears in “וַאֲנַחְנוּ חֲשַׁבְנֻהוּ” (“and we thought/considered him…”). It is a Qal perfect verb (1st person plural) with an object suffix “him.” The clause uses וַאֲנַחְנוּ plus the perfect to depict the speaker’s past/assumed judgment (what ‘we’ believed). The voice is active (we did the thinking), and the mood is indicative (stating what was thought), setting up the contrast with the following description."
+    },
+    {
+      "verb": "נָג֛וּעַ",
+      "translation": "stricken; afflicted",
+      "summary": "נָג֛וּעַ functions not as a separate finite verb but as a verbal adjective/participle in “נָג֛וּעַ מֻכֵּה…,” describing what people believed the subject to be. It is from the root נגע (“to strike”), in a passive/participial form (Qal passive-like usage), meaning “stricken.” Grammatically it modifies the implied subject (“him”), functioning as part of a noun-like predicate complement. Semantically it expresses perceived divine punishment as the believers interpret the subject’s condition."
+    },
+    {
+      "verb": "מֻכֵּה",
+      "translation": "wounded; struck",
+      "summary": "מֻכֵּה appears in “מֻכֵּה אֱלֹהִים” (“wounded/struck by God”). It is a passive participial form from the root הכה (“to strike, hit”), used adjectivally to describe the subject’s condition. Although participial, it functions predicatively in the chain of descriptors, parallel to נָג֛וּעַ. The passive sense contributes the idea of being struck/wounded as a result of others’ (or God’s) action, matching the mistaken interpretation introduced by “we thought him…”"
+    },
+    {
+      "verb": "מְעֻנֶּה",
+      "translation": "afflicted; tormented",
+      "summary": "וּמְעֻנֶּה occurs in “וּמְעֻנֶּה” (“and afflicted/tormented”). It is a passive participial/verbal adjective from the root ענה (“to afflict, humble, torment”), used to describe the same subject in a further parallel clause. Grammatically it functions as another predicate descriptor following the passive series נָג֛וּעַ / מֻכֵּה. The passive participial meaning emphasizes the condition being done to him, and together with the preceding verbs of thinking (חֲשַׁבְנֻהוּ) it conveys what people erroneously attributed to him."
+    }
+  ]
+}
