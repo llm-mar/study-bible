@@ -3,9 +3,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Agents](#agents)
 - [Studied Books](#studied-books)
 - [Project Organization](#project-organization)
+- [Agents](#agents)
 - [Greek Text Source](#greek-text-source)
 - [How to Use](#how-to-use)
 - [License](#license)
