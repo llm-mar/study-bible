@@ -1,0 +1,39 @@
+{
+  "verbs": [
+    {
+      "verb": "חָפֵץ",
+      "translation": "desired; was pleased",
+      "summary": "חָפֵץ is a Qal active participle used with וַיהוָה to express Yahweh’s settled will/attitude. In context it functions narratively like a past-stative (“was pleased/desired”), describing the subject’s desire that sets up the following infinitive. The participle’s active voice presents the subject as the one doing the desiring; its meaning is realized as a purpose/attitude rather than an event with overt tense markers."
+    },
+    {
+      "verb": "דַּכְּאֹו",
+      "translation": "to crush him",
+      "summary": "דַּכְּאֹו is an infinitive construct in the Piel (causative/intensive) pattern with a 3ms suffix (“him”). It serves as the complement to חָפֵץ, expressing what Yahweh desired: “pleased to crush him.” The mood is non-finite (infinitive), active in meaning (the crushing is attributed to Yahweh), and it functions as the action linked to the preceding participle."
+    },
+    {
+      "verb": "הֶחֱלִי",
+      "translation": "he caused him to become ill / to suffer",
+      "summary": "הֶחֱלִי is a Hiphil (causative) finite form expressing Yahweh’s action toward the servant. In context it follows the description of Yahweh’s pleasure and functions like a narrative perfect (“he caused…,” i.e., “he made [him] suffer”). The voice is causative (Hiphil) and the mood is indicative/narrative: it portrays an actual caused state resulting from Yahweh’s decision."
+    },
+    {
+      "verb": "תָּשִׂים",
+      "translation": "you/one will set; you will make (as a guilt offering)",
+      "summary": "תָּשִׂים is a Qal imperfect with 2ms prefix ת־, used in a conditional protasis introduced by אִם (“if…”). Its mood is conditional: the action is presented hypothetically (“if you make/set his life as an אָשָׁם”). Semantically it means “to place/make (something) into the role of a guilt offering,” and syntactically it leads to the ensuing future results in the following clauses."
+    },
+    {
+      "verb": "יִרְאֶה",
+      "translation": "will see",
+      "summary": "יִרְאֶה is a Qal imperfect 3ms (“he/it will see”), functioning as the first result clause after the conditional אִם. The mood is future/irrealis tied to the conditional structure: “then (he) will see…” It is active in voice, with the subject implied as the one whose making of the guilt offering leads to seeing offspring (זֶרַע)."
+    },
+    {
+      "verb": "יַאֲרִיךְ",
+      "translation": "will prolong",
+      "summary": "יַאֲרִיךְ is a causative form of the root ארך, functioning as a finite verb meaning “will lengthen/prolong” (i.e., prolong days). It is placed in the sequence of result clauses after יִרְאֶה, so it bears future conditional nuance (“will prolong his days”). The voice is causative/active (making days longer), and the grammatical role is to express a promised outcome connected to the conditional setup."
+    },
+    {
+      "verb": "יִצְלָח",
+      "translation": "will prosper; will succeed",
+      "summary": "יִצְלָח is a Qal imperfect 3ms used in the final clause, reporting the success of בְּיָדֹו (“in his hand”)—specifically the “pleasure/desire of Yahweh” (חֵפֶץ יְהוָה). The mood is future and depends on the conditional/result flow of the surrounding text. It is active, indicating that the LORD’s will will be brought to a successful end (“will prosper/succeed”)."
+    }
+  ]
+}

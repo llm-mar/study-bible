@@ -1,0 +1,29 @@
+{
+  "verbs": [
+    {
+      "verb": "נִבְזֶה",
+      "translation": "despised",
+      "summary": "נִבְזֶה is a Hebrew passive participle (Nifal form) functioning adjectivally as a predicate in a descriptive clause. It portrays the referent as being characterized by contempt, rather than stating a new finite action. In this prophetic/poetic context it works with an implied “he was,” describing a state (aspectually present-like) and indicating passive voice (the person is the one being despised)."
+    },
+    {
+      "verb": "וַחֲדַ֣ל",
+      "translation": "forsaken / rejected",
+      "summary": "וַחֲדַ֣ל is introduced with a waw and functions as a second predicate in parallel with נִבְזֶה. It derives from the root חדל (“cease/stop, leave off”) and is used here as an adjectival/passive description meaning “forsaken” or “rejected” with respect to people. The waw connects it to the preceding characterization, and although it is not a finite verb, it still conveys an indicative descriptive meaning about the subject’s social rejection (implied “and he is/and he has been… [forsaken]”)."
+    },
+    {
+      "verb": "וִיד֣וּעַ",
+      "translation": "known / acquainted (with)",
+      "summary": "וִיד֣וּעַ is a passive participle from the root ידע (“to know”), functioning as an adjectival predicate: “and known/acquainted (with) sickness.” Grammatically it is not a finite tense form; instead it characterizes the subject by an ongoing relationship/state (aspectually describing familiarity). The participle’s passive voice highlights that the subject is “made known/recognized” in relation to the accompanying noun (חֹלִי, “sickness”)."
+    },
+    {
+      "verb": "נִבְזֶ֖ה",
+      "translation": "despised",
+      "summary": "נִבְזֶ֖ה appears again as a repeated passive participle predicate, restoring the earlier characterization for emphasis. As with the first occurrence, it functions adjectivally (implied “he was/is despised”), describing the subject’s social status/state. Its passive voice indicates the subject is the one receiving contempt, and its poetic repetition reinforces the semantic point within the parallel structure of the sentence."
+    },
+    {
+      "verb": "חֲשַׁבְנֻֽהוּ",
+      "translation": "we considered / we thought (of) him",
+      "summary": "חֲשַׁבְנֻֽהוּ is a finite Qal perfect verb with a 1st person plural subject (נֻ- indicating the perfect form) and the object suffix ־הוּ (“him”), preceded by the negative וְלֹא. This makes the clause a denied past action: “and we did not consider/think of him.” Voice is active (Qal), mood is indicative within the negative historical/proleptic statement, and the perfect aspect presents the non-consideration as a completed past reality in the speaker’s perspective."
+    }
+  ]
+}

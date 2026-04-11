@@ -1,0 +1,34 @@
+{
+  "verbs": [
+    {
+      "verb": "נִגַּשׂ",
+      "translation": "was brought / was led near",
+      "summary": "נִגַּשׂ appears as a perfect-style verb used in a poetic narrative to describe an action done to the subject (passive sense). Semantically it sets the scene: the person is “brought near/led,” functioning as the opening clause that frames the following comparisons (like a lamb). The form carries a completed/eventive sense (perfective) and is not volitional by the subject."
+    },
+    {
+      "verb": "נַעֲנֶה",
+      "translation": "was afflicted / was oppressed",
+      "summary": "נַעֲנֶה is a passive/medial form (from the root meaning “to afflict/answer/afflict”) functioning as a descriptive predicate in the clause with וְהוּא (“and he”). It presents the subject’s condition/state as the result of treatment by others, i.e., “he was afflicted/oppressed.” The tense/aspect is perfective or stative in meaning within the poem, contributing background description rather than a new action sequence."
+    },
+    {
+      "verb": "יִפְתַּח (יּפְתַּח־פִּיו)",
+      "translation": "will open (his) mouth",
+      "summary": "יִפְתַּח is an imperfect (yiktol) form used with the negative particle לֹא (“not”), creating a clear refusal/future-negative meaning: “he will not open his mouth.” It appears twice in the text, each time reinforcing that the subject remains silent. Voice is active in form, but the negative construction emphasizes non-action; mood is indicative/jussive-like in poetic usage of the imperfect to express what will not happen."
+    },
+    {
+      "verb": "יוּבָל",
+      "translation": "is/was led",
+      "summary": "יוּבָל is a passive verb form (from the root “to bring/lead,” in a passive pattern) in the comparison phrase כַּשֶּׂה לַטֶּבַח יוּבָל, “as a lamb to slaughter is led.” It functions as the predicate of the simile: the lamb’s fate is presented from the perspective of being carried/escorted to slaughter. The aspect is imperfective/passive in sense, fitting the ongoing/fated action of the image."
+    },
+    {
+      "verb": "נֶאֱלָמָה",
+      "translation": "is/was made silent (is dumb)",
+      "summary": "נֶאֱלָמָה is a passive/statative verb used in the simile כְּרָחֵל… נֶאֱלָמָה, “like a sheep… is made silent / is dumb.” It describes the subject’s (sheep’s) behavioral state—silence—while facing the shearers. The form functions as a resultative/state description within the poetic parallelism, using a passive pattern to convey that silence is imposed or results from circumstances."
+    },
+    {
+      "verb": "גֹזְזֶיהָ",
+      "translation": "those who shear (its shearers)",
+      "summary": "גֹזְזֶיהָ is a participial form (“shearing ones”) used substantivally as the agent in the prepositional phrase לִפְנֵי גֹזְזֶיהָ, “before its shearers.” Although it functions like a noun (“shearers”), grammatically it derives from a verbal stem and expresses the ongoing role/action of the agents performing the shearing. It is not inflected for tense in the way finite verbs are; its participial character provides meaning of typical/ongoing activity in the scene."
+    }
+  ]
+}
