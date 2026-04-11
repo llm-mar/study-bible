@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "What does the text state is the genealogy/book about?",
+      "answers": "It is the “book of the generation/genealogy of Jesus Christ.”"
+    },
+    {
+      "question": "Who is mentioned in the text?",
+      "answers": "Jesus Christ."
+    },
+    {
+      "question": "How does the text describe Jesus Christ in terms of his lineage?",
+      "answers": "He is the son of David and the son of Abraham."
+    }
+  ]
+}

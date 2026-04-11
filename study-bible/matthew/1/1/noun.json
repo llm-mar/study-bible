@@ -1,0 +1,39 @@
+{
+  "nouns": [
+    {
+      "noun": "Βίβλος",
+      "translation": "book",
+      "summary": "The phrase presents “Βίβλος” as the main object of the title, indicating that what follows is the name of a book."
+    },
+    {
+      "noun": "γενέσεως",
+      "translation": "generation / genealogy",
+      "summary": "“γενέσεως” specifies the subject matter of the book, indicating that the book concerns the generation or genealogy being referenced."
+    },
+    {
+      "noun": "Ἰησοῦ",
+      "translation": "Jesus",
+      "summary": "“Ἰησοῦ” identifies the person whose generation/genealogy is being referenced, and he is explicitly described in relation to other figures in the title."
+    },
+    {
+      "noun": "Χριστοῦ",
+      "translation": "Christ",
+      "summary": "“Χριστοῦ” is used together with “Ἰησοῦ” to denote the full identity/title “Jesus Christ,” as part of the title’s description of the referenced person."
+    },
+    {
+      "noun": "υἱοῦ",
+      "translation": "son",
+      "summary": "“υἱοῦ” functions to state lineage relationships in the title, indicating that Jesus is “son of” the following named individuals."
+    },
+    {
+      "noun": "Δαυὶδ",
+      "translation": "David",
+      "summary": "“Δαυὶδ” names one of the people identified as the father/lineage source in the title, connected to Jesus through the descriptor “son of.”"
+    },
+    {
+      "noun": "Ἀβραάμ",
+      "translation": "Abraham",
+      "summary": "“Ἀβραάμ” names another person tied to Jesus by lineage in the title, again expressed through the phrase “son of.”"
+    }
+  ]
+}
