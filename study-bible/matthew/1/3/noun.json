@@ -1,0 +1,34 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἰούδας",
+      "translation": "Judah",
+      "summary": "The text states that Ἰούδας is the person who begot (ἤγένησεν) τὸν Φαρὲς and τὸν Ζαρὰ, with their origin given as being from Θάμαρ."
+    },
+    {
+      "noun": "Φαρὲς",
+      "translation": "Perez",
+      "summary": "Φαρὲς is described as being begotten by Ἰούδας, and the text further states that Φαρὲς begot Ἑσρώμ."
+    },
+    {
+      "noun": "Ζαρὰ",
+      "translation": "Zerah",
+      "summary": "Ζαρὰ is described as being begotten by Ἰούδας, with the text specifying that this was from Θάμαρ."
+    },
+    {
+      "noun": "Θάμαρ",
+      "translation": "Thamar",
+      "summary": "Θάμαρ is named as the person “from” whom Ἰούδας begot Φαρὲς and Ζαρὰ."
+    },
+    {
+      "noun": "Ἑσρώμ",
+      "translation": "Hezron",
+      "summary": "Ἑσρώμ is stated to be begotten by Φαρὲς, and it is further said that Ἑσρώμ begot Ἀράμ."
+    },
+    {
+      "noun": "Ἀράμ",
+      "translation": "Ram",
+      "summary": "Ἀράμ is the child who is begotten by Ἑσρώμ, as given in the genealogical sequence in the text."
+    }
+  ]
+}
