@@ -1,8 +1,28 @@
 # License
 
-## Open Greek New Testament (OGNT) License
+By accessing, using, downloading, or interacting with this Study Bible project, you agree to comply with the applicable licenses outlined below.
 
-The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
+## License Summary
+
+| Component | License | Coverage |
+|-----------|---------|----------|
+| Open Greek New Testament (OGNT) text | Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) | Biblical text data and translations |
+| LLM-MAR tool | MIT License | The Multi Agent Reasoning CLI framework |
+| AI-generated outputs | Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) | All analyses, interpretations, and derivatives from biblical content |
+| Study Bible project files | Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) | Configuration files, workflows, and agent definitions |
+
+### License Obligations Summary
+
+- **Attribution**: Always credit the Open Greek New Testament (Eliran Wong) and the Study Bible project
+- **Share-Alike**: Any derivative works must use the same CC BY-SA 4.0 license
+- **Commercial Use**: Permitted under CC BY-SA 4.0 with proper attribution
+- **No Warranties**: Software provided "as-is" without warranties
+
+## 1. Open Greek New Testament (OGNT) License
+
+**Applies to**: Biblical text, translations, and linguistic data from OGNT
+
+The main text of Open Greek New Testament Project is released under the following license:
 
 Creative Commons Licence
 Open Greek New Testament Project by Eliran Wong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
@@ -97,11 +117,19 @@ Advice about licensing.
 
 Bible Repository: https://github.com/eliranwong/OpenGNT
 
-## AI Output Licensing
+## 2. Study Bible Project License
 
-All AI-generated outputs from this Study Bible project that incorporate or derive from biblical content are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), in accordance with the license of the underlying Open Greek New Testament text.
+**Applies to**: All project configuration files, YAML agent definitions, workflows, and project-specific code
 
-## LLM-MAR License
+The Study Bible project files are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). This ensures that customizations and extensions of the Study Bible framework are also shared openly.
+
+## 3. AI Output Licensing
+
+**Applies to**: All AI-generated outputs, analyses, interpretations, and responses from agents
+
+All AI-generated outputs that incorporate or derive from biblical content are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). This is because such outputs are derivative works of the OGNT text.
+
+## 4. LLM-MAR License
 
 This project uses LLM-MAR (Multi Agent Reasoning), which is licensed under the MIT License.
 
