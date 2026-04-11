@@ -6,7 +6,7 @@ The goal of a Study Bible project built with LLM-MAR is to create a collaborativ
 
 This project leverages LLM-MAR (Multi Agent Reasoning), a compact CLI that creates LLM agents, lets them debate, answers questions, and builds workflows, to facilitate multi-perspective biblical study.
 
-**Repository:** https://github.com/yourusername/study-bible
+**Repository:** [github.com/llm-mar/study-bible](https://github.com/llm-mar/study-bible)
 
 
 ## Studied Books
