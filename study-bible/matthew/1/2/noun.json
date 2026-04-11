@@ -1,0 +1,29 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἀβραὰμ",
+      "translation": "Abraham",
+      "summary": "Abraham is described as having begotten/produced Isaac."
+    },
+    {
+      "noun": "Ἰσαάκ",
+      "translation": "Isaac",
+      "summary": "Isaac is described as having begotten/produced Jacob."
+    },
+    {
+      "noun": "Ἰακώβ",
+      "translation": "Jacob",
+      "summary": "Jacob is described as having begotten/produced Judah and his brothers."
+    },
+    {
+      "noun": "Ἰούδαν",
+      "translation": "Judah",
+      "summary": "Judah is mentioned as the son whom Jacob begot."
+    },
+    {
+      "noun": "ἀδελφοὺς αὐτοῦ",
+      "translation": "his brothers",
+      "summary": "Jacob is stated to have begotten Judah along with his brothers; the brothers are included as those born from Jacob."
+    }
+  ]
+}
