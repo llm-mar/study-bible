@@ -12,7 +12,7 @@ This project leverages LLM-MAR (Multi Agent Reasoning), a compact CLI that creat
 ## Studied Books
 
 - [Matthew](study-bible/matthew/)
-- [Mark](study-bible/mark/)
+<!-- - [Mark](study-bible/mark/) -->
 
 
 ## Greek Text Source
