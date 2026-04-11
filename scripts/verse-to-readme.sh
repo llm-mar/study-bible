@@ -89,27 +89,77 @@ try:
     with open('$file_path', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
+    def format_table(items, columns):
+        \"\"\"Create a markdown table from list of dicts\"\"\"
+        result = []
+        
+        # Header
+        header = '| ' + ' | '.join(columns) + ' |'
+        separator = '|' + '|'.join([' --- ' for _ in columns]) + '|'
+        result.append(header)
+        result.append(separator)
+        
+        # Rows
+        for item in items:
+            row_vals = []
+            for col in columns:
+                val = item.get(col, '')
+                row_vals.append(str(val))
+            row = '| ' + ' | '.join(row_vals) + ' |'
+            result.append(row)
+        
+        return result
+    
+    def is_uniform_list(items):
+        \"\"\"Check if list items have similar structure\"\"\"
+        if not items or not isinstance(items[0], dict):
+            return False
+        
+        if len(items) < 2:
+            return True
+        
+        # Get keys from first item
+        first_keys = set(items[0].keys())
+        
+        # Check if all items have same keys (approximately)
+        for item in items[1:]:
+            if not isinstance(item, dict):
+                return False
+            item_keys = set(item.keys())
+            # Allow if keys are the same or very similar
+            if item_keys != first_keys:
+                return False
+        
+        return True
+    
     def format_items(items, indent=0):
         result = []
         prefix = '  ' * indent
         
         if isinstance(items, list):
-            if len(items) == 0:  # Empty list
+            if len(items) == 0:
                 return result
-            for idx, item in enumerate(items):
-                if isinstance(item, dict):
-                    # Group related fields together
-                    for k, v in item.items():
-                        if isinstance(v, (list, dict)):
-                            result.append(prefix + f'**{k}:**')
-                            result.extend(format_items(v, indent + 1))
-                        else:
-                            result.append(prefix + f'- **{k}:** {v}')
-                    # Add spacing between items
-                    if idx < len(items) - 1:
-                        result.append('')
-                else:
-                    result.append(prefix + f'- {item}')
+            
+            # Check if this should be a table
+            if is_uniform_list(items):
+                columns = list(items[0].keys())
+                table_lines = format_table(items, columns)
+                for line in table_lines:
+                    result.append(line)
+            else:
+                # Regular list formatting
+                for idx, item in enumerate(items):
+                    if isinstance(item, dict):
+                        for k, v in item.items():
+                            if isinstance(v, (list, dict)):
+                                result.append(prefix + f'**{k}:**')
+                                result.extend(format_items(v, indent + 1))
+                            else:
+                                result.append(prefix + f'- **{k}:** {v}')
+                        if idx < len(items) - 1:
+                            result.append('')
+                    else:
+                        result.append(prefix + f'- {item}')
         elif isinstance(items, dict):
             for k, v in items.items():
                 if isinstance(v, list):
@@ -144,6 +194,7 @@ try:
                 continue
                 
             print(f'**{key}:**')
+            print()
             if isinstance(value, (list, dict)):
                 lines = format_items(value)
                 for line in lines:
