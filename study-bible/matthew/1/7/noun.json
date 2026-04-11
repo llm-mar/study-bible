@@ -1,0 +1,34 @@
+{
+  "nouns": [
+    {
+      "noun": "Σολομὼν",
+      "translation": "Solomon",
+      "summary": "Solomon is described as having “begotten” (γεννήσεν) Rehoboam."
+    },
+    {
+      "noun": "Ῥοβοάμ",
+      "translation": "Rehoboam",
+      "summary": "Rehoboam is mentioned as the son whom Solomon begot."
+    },
+    {
+      "noun": "Ῥοβοὰμ",
+      "translation": "Rehoboam",
+      "summary": "Rehoboam is also presented as having “begotten” (γεννήσεν) Abijah."
+    },
+    {
+      "noun": "Ἀβιά",
+      "translation": "Abijah",
+      "summary": "Abijah is described as having “begotten” (γεννήσεν) Asaph."
+    },
+    {
+      "noun": "Ἀβιὰ",
+      "translation": "Abijah",
+      "summary": "Abijah is mentioned as the son whom Rehoboam begot."
+    },
+    {
+      "noun": "Ἀσάφ",
+      "translation": "Asaph",
+      "summary": "Asaph is mentioned as the person whom Abijah begot."
+    }
+  ]
+}

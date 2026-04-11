@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "noun": "Ὀζίας",
+      "translation": "Ozias",
+      "summary": "The text states that Ὀζίας is the parent who “begat” (fathered) Ἰωαθάμ."
+    },
+    {
+      "noun": "Ἰωαθάμ",
+      "translation": "Joatham",
+      "summary": "Ἰωαθάμ is described as the person who “begat” (fathered) Ἄχαζ."
+    },
+    {
+      "noun": "Ἄχαζ",
+      "translation": "Achaz",
+      "summary": "Ἄχαζ is said to have “begat” (fathered) Ἑζεκίαν."
+    },
+    {
+      "noun": "Ἑζεκίαν",
+      "translation": "Hezekiah",
+      "summary": "Ἑζεκίαν is presented as the child who is “begotten” (fathered) by Ἄχαζ."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Whom did Ἀσὰφ (Asaph) beget?",
+      "answers": "Ἰωσαφάτ (Jehoshaphat)."
+    },
+    {
+      "question": "Whom did Ἰωσαφάτ (Jehoshaphat) beget?",
+      "answers": "Ἰωράμ (Joram)."
+    },
+    {
+      "question": "Whom did Ἰωράμ (Joram) beget?",
+      "answers": "Ὀζίαν (Uzziah)."
+    },
+    {
+      "question": "Who was the father of Ἰωράμ (Joram)?",
+      "answers": "Ἰωσαφάτ (Jehoshaphat)."
+    },
+    {
+      "question": "Who was the father of Ὀζίαν (Uzziah)?",
+      "answers": "Ἰωράμ (Joram)."
+    },
+    {
+      "question": "Who was the father of Ἰωσαφάτ (Jehoshaphat)?",
+      "answers": "Ἀσὰφ (Asaph)."
+    }
+  ]
+}

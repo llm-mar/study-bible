@@ -1,0 +1,29 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἰεσσαὶ",
+      "translation": "Jesse",
+      "summary": "The text states that Jesse “ἐγέννησεν” (gave birth to) a specific person, namely David the king."
+    },
+    {
+      "noun": "Δαυὶδ",
+      "translation": "David",
+      "summary": "The text says David was born from Jesse (“Δαυὶδ ἐγέννησεν…”), and it also states that David “ἐγέννησεν” Solomon, linking Solomon’s birth to “τοῦ Οὐρίου.”"
+    },
+    {
+      "noun": "βασιλέα",
+      "translation": "king",
+      "summary": "“βασιλέα” specifies that the David mentioned in the text is a king, describing his status in the statement about Jesse giving birth to him."
+    },
+    {
+      "noun": "Σολομῶνα",
+      "translation": "Solomon",
+      "summary": "The text asserts that Solomon is the son born by David (“Δαυὶδ δὲ ἐγέννησεν τὸν Σολομῶνα”), with the birth described as being “ἐκ τῆς τοῦ Οὐρίου.”"
+    },
+    {
+      "noun": "Οὐρίου",
+      "translation": "Uriah",
+      "summary": "The text refers to “τοῦ Οὐρίου” in connection with Solomon’s birth (“ἐκ τῆς τοῦ Οὐρίου”), indicating the lineage/origin associated with Uriah for Solomon."
+    }
+  ]
+}

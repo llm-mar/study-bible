@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Who did Salmon (Σαλμὼν) give birth to?",
+      "answers": "Boes (Βόες)."
+    },
+    {
+      "question": "Who did Boes (Βόες) give birth to?",
+      "answers": "Jobed (Ἰωβὴδ)."
+    },
+    {
+      "question": "Who did Boes (Βόες) give birth to, and from whom?",
+      "answers": "Jobed (Ἰωβὴδ) was born to Boes from Rahab (ἐκ τῆς Ῥαχάβ)."
+    },
+    {
+      "question": "Who did Jobed (Ἰωβὴδ) give birth to?",
+      "answers": "Jesse (Ἰεσσαί)."
+    },
+    {
+      "question": "Who did Jobed (Ἰωβὴδ) give birth to, and from whom?",
+      "answers": "Jesse (Ἰεσσαί) was born to Jobed from Ruth (Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί)."
+    }
+  ]
+}

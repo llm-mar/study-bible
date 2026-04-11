@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἑζεκίας",
+      "translation": "Hezekiah",
+      "summary": "The text states that Ἑζεκίας is the person who “begat” (ἐγέννησεν) the following named individual."
+    },
+    {
+      "noun": "Μανασσῆς",
+      "translation": "Manasseh",
+      "summary": "The text presents Μανασσῆς as the one who “begat” (ἐγέννησεν) the next named person."
+    },
+    {
+      "noun": "Ἀμὼς",
+      "translation": "Amos",
+      "summary": "The text says that Ἀμὼς “begat” (ἐγέννησεν) the final named person, indicating he is acting as a parent in the genealogy."
+    },
+    {
+      "noun": "Ἰωσίαν",
+      "translation": "Josiah",
+      "summary": "Ἰωσίαν is named as the child who is “begotten” (ἐγέννησεν) by the preceding person in the sequence."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrases": [
+    {
+      "phrase": "Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ",
+      "translation": "And Asaph begot Jehoshaphat.",
+      "summary": "The text states that Asaph produced a son named Jehoshaphat (i.e., Jehoshaphat was born from Asaph)."
+    },
+    {
+      "phrase": "Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ",
+      "translation": "And Jehoshaphat begot Joram.",
+      "summary": "The text states that Jehoshaphat produced a son named Joram (i.e., Joram was born from Jehoshaphat)."
+    },
+    {
+      "phrase": "Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν",
+      "translation": "And Joram begot Uzziah.",
+      "summary": "The text states that Joram produced a son named Uzziah (i.e., Uzziah was born from Joram)."
+    },
+    {
+      "phrase": "Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ, Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ, Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν,",
+      "translation": "And Asaph begot Jehoshaphat, and Jehoshaphat begot Joram, and Joram begot Uzziah.",
+      "summary": "Together, the clauses describe a direct father-to-son lineage: Asaph is presented as the father of Jehoshaphat, Jehoshaphat as the father of Joram, and Joram as the father of Uzziah."
+    }
+  ]
+}

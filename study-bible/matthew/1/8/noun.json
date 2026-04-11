@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἀσὰφ",
+      "translation": "Asaph",
+      "summary": "The text states that Ἀσὰφ “ἐγέννησεν” (gave birth to) Ἰωσαφάτ, meaning he fathered Jehoshaphat."
+    },
+    {
+      "noun": "Ἰωσαφάτ",
+      "translation": "Jehoshaphat",
+      "summary": "The text says Ἰωσαφάτ “ἐγέννησεν” (gave birth to) Ἰωράμ, meaning he fathered Jehoram."
+    },
+    {
+      "noun": "Ἰωράμ",
+      "translation": "Jehoram",
+      "summary": "The text indicates that Ἰωράμ “ἐγέννησεν” (gave birth to) Ὀζίαν, meaning he fathered Uzziah."
+    },
+    {
+      "noun": "Ὀζίαν",
+      "translation": "Uzziah",
+      "summary": "Ὀζίαν is presented as the person who is born to Ἰωράμ (“ἐγέννησεν … τὸν Ὀζίαν”), so Uzziah is the child in this parent-child sequence."
+    }
+  ]
+}

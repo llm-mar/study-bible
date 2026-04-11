@@ -1,0 +1,34 @@
+{
+  "nouns": [
+    {
+      "noun": "Σαλμὼν",
+      "translation": "Salmon",
+      "summary": "Σαλμὼν is described as having “begotten” a son (Βόες) from Ῥαχάβ."
+    },
+    {
+      "noun": "Βόες",
+      "translation": "Boaz",
+      "summary": "Βόες is described as having “begotten” a son (Ἰωβὴδ) from Ῥούθ."
+    },
+    {
+      "noun": "Ῥαχάβ",
+      "translation": "Rahab",
+      "summary": "Ῥαχάβ is identified as the mother from whom Σαλμὼν “begot” Βόες."
+    },
+    {
+      "noun": "Ἰωβὴδ",
+      "translation": "Obed",
+      "summary": "Ἰωβὴδ is described as having “begotten” Ἰεσσαί."
+    },
+    {
+      "noun": "Ῥούθ",
+      "translation": "Ruth",
+      "summary": "Ῥούθ is identified as the mother from whom Βόες “begot” Ἰωβὴδ."
+    },
+    {
+      "noun": "Ἰεσσαί",
+      "translation": "Jesse",
+      "summary": "Ἰεσσαί is mentioned as the son who was “begotten” by Ἰωβὴδ."
+    }
+  ]
+}
