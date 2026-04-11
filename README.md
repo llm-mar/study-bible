@@ -2,9 +2,41 @@
 
 ## Overview
 
-The goal of a Study Bible project built with LLM-MAR is to create a collaborative AI system that helps users understand the Bible through multiple perspectives by using specialized agents that analyze scripture, explain historical and linguistic context, explore theological interpretations, and provide practical applications. By coordinating these agents through structured workflows, teams, and debates, the system aims to deepen understanding,and support more reflective, educational, and accessible engagement with biblical texts.
+The goal of a Study Bible project built with LLM-MAR is to create a collaborative AI system that helps users understand the Bible through multiple perspectives by using specialized agents that analyze scripture, explain historical and linguistic context, explore interpretations, and provide practical applications. By coordinating these agents through structured workflows, teams, and debates, the system aims to deepen understanding,and support more reflective, educational, and accessible engagement with biblical texts.
 
 This project leverages LLM-MAR (Multi Agent Reasoning), a compact CLI that creates LLM agents, lets them debate, answers questions, and builds workflows, to facilitate multi-perspective biblical study.
+
+
+## Studied Books
+
+- [Matthew](study-bible/matthew/)
+- [Mark](study-bible/mark/)
+
+
+## How to Use
+
+### Analyze a New Verse
+
+Use the `analyze.sh` script to run the complete analysis pipeline for any verse:
+
+```bash
+./scripts/analyze.sh BOOK CHAPTER VERSE
+```
+
+Example:
+```bash
+./scripts/analyze.sh MT 1 1
+```
+
+This will:
+1. Generate analysis JSON files (teaching, question, author, audience, noun, verb, phrase, translation)
+2. Create a formatted README.md with all analyses presented as tables and structured sections
+
+### Scripts
+
+- **analyze.sh** — Complete pipeline (runs both study.sh and verse-to-readme.sh)
+- **study.sh** — Generate LLM-MAR agent analysis files
+- **verse-to-readme.sh** — Transform JSON analysis into formatted README.md
 
 
 ## License
