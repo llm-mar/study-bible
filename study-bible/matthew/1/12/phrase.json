@@ -1,0 +1,19 @@
+{
+  "phrases": [
+    {
+      "phrase": "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας",
+      "translation": "After the deportation of Jeconiah to Babylon.",
+      "summary": "The text sets a time context by referring to the deportation (transfer) of Jeconiah to Babylon, indicating that what follows happens after that event."
+    },
+    {
+      "phrase": "Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ",
+      "translation": "Jeconiah begot (fathered) Salathiel.",
+      "summary": "Jeconiah is described as having a child: he fathered Salathiel."
+    },
+    {
+      "phrase": "Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ",
+      "translation": "Salathiel, in turn, begot (fathered) Zorobabel.",
+      "summary": "The text then states that Salathiel fathered another person: Zorobabel."
+    }
+  ]
+}

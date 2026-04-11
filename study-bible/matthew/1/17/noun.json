@@ -1,0 +1,34 @@
+{
+  "nouns": [
+    {
+      "noun": "γενεαὶ",
+      "translation": "generations",
+      "summary": "The text states that there are specific counts of generations, listing three ranges of time and giving the number of generations in each range."
+    },
+    {
+      "noun": "Ἀβραὰμ",
+      "translation": "Abraham",
+      "summary": "Abraham is presented as the starting point for the first listed sequence of generations, which runs from Abraham to David."
+    },
+    {
+      "noun": "Δαυὶδ",
+      "translation": "David",
+      "summary": "David is presented as an intermediate point in the genealogy, marking the end of the first generation range and the start of the next range."
+    },
+    {
+      "noun": "μετοικεσίας",
+      "translation": "relocation; exile",
+      "summary": "The text uses “μετοικεσίας” to designate the period of relocation/exile (specifically connected to Babylon) and treats it as a boundary between generation ranges."
+    },
+    {
+      "noun": "Βαβυλῶνος",
+      "translation": "Babylon",
+      "summary": "Babylon is named as the place associated with the relocation/exile, and the generation sequence is described in relation to the period “from the relocation of Babylon to Christ.”"
+    },
+    {
+      "noun": "Χριστοῦ",
+      "translation": "Christ",
+      "summary": "Christ is presented as the final endpoint of the genealogy, completing the last listed generation range “from Babylon’s relocation to Christ.”}]}"
+    }
+  ]
+}

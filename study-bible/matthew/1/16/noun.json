@@ -1,0 +1,34 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἰακὼβ",
+      "translation": "Jacob",
+      "summary": "Jacob is described as having fathered (ἔγεννήσεν) Joseph."
+    },
+    {
+      "noun": "Ἰωσὴφ",
+      "translation": "Joseph",
+      "summary": "Joseph is stated to be the son born from Jacob’s fathering, and he is identified as the man/husband associated with Mary."
+    },
+    {
+      "noun": "ἄνδρα",
+      "translation": "man",
+      "summary": "The text states that Joseph is “the man” (ἄνδρα) of Mary, identifying him in relation to her."
+    },
+    {
+      "noun": "Μαρίας",
+      "translation": "Mary",
+      "summary": "Mary is described as the person from whom Jesus was born (ἐξ ἧς ἐγεννήθη Ἰησοῦς)."
+    },
+    {
+      "noun": "Ἰησοῦς",
+      "translation": "Jesus",
+      "summary": "Jesus is said to have been born from Mary."
+    },
+    {
+      "noun": "Χριστός",
+      "translation": "Christ",
+      "summary": "Jesus is identified as “the one called Christ” (ὁ λεγόμενος Χριστός)."
+    }
+  ]
+}

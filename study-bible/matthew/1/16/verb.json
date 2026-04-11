@@ -1,0 +1,19 @@
+{
+  "verbs": [
+    {
+      "verb": "ἐγέννησεν",
+      "translation": "begot",
+      "summary": "Ἰακὼβ ἐγέννησεν (begot) τὸν Ἰωσὴφ, describing the act of Jacob giving birth to Joseph as part of the family line."
+    },
+    {
+      "verb": "ἐγεννήθη",
+      "translation": "was begotten",
+      "summary": "Ἰησοῦς ἐγεννήθη (was begotten) ἐξ ἧς, indicating that Jesus was born from Mary (as the source named in the sentence)."
+    },
+    {
+      "verb": "λεγόμενος",
+      "translation": "called",
+      "summary": "Ἰησοῦς ὁ λεγόμενος Χριστός states that Jesus is referred to as “Christ,” marking the ongoing/attributed naming implied by “the one called Christ.”"
+    }
+  ]
+}

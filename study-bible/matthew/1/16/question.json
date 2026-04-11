@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Who did Jacob beget?",
+      "answers": "Jacob beget Joseph."
+    },
+    {
+      "question": "Who is Joseph identified as (relation to Mary)?",
+      "answers": "Joseph is the husband of Mary."
+    },
+    {
+      "question": "From whom was Jesus born?",
+      "answers": "Jesus is born from Mary (Mary, from whom Joseph was begotten)."
+    },
+    {
+      "question": "What is Jesus called?",
+      "answers": "Jesus is called Christ (the so-called Christ)."
+    }
+  ]
+}

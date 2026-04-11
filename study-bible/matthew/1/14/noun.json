@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἀζὼρ",
+      "translation": "Azor",
+      "summary": "Azor is stated to have “begotten/born” the next person in the genealogy, specifically Sadok."
+    },
+    {
+      "noun": "Σαδώκ",
+      "translation": "Sadok",
+      "summary": "Sadok is stated to have “begotten/born” the next person in the genealogy, specifically Achim."
+    },
+    {
+      "noun": "Ἀχίμ",
+      "translation": "Achim",
+      "summary": "Achim is stated to have “begotten/born” the next person in the genealogy, specifically Elioud."
+    },
+    {
+      "noun": "Ἐλιούδ",
+      "translation": "Elioud",
+      "summary": "Elioud is presented as the person who is born/begotten as the child of Achim within the genealogy."
+    }
+  ]
+}

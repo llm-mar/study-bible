@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "noun": "Ζοροβαβὲλ",
+      "translation": "",
+      "summary": "The text states that Ζοροβαβὲλ “ἐγέννησεν” (begat) Ἀβιούδ."
+    },
+    {
+      "noun": "Ἀβιούδ",
+      "translation": "",
+      "summary": "The text presents Ἀβιούδ as the person begotten by Ζοροβαβὲλ and then having begotten Ἐλιακίμ."
+    },
+    {
+      "noun": "Ἐλιακίμ",
+      "translation": "",
+      "summary": "The text shows Ἐλιακίμ being begotten by Ἀβιούδ and then itself begatting Ἀζώρ."
+    },
+    {
+      "noun": "Ἀζώρ",
+      "translation": "",
+      "summary": "The text describes Ἀζώρ as the person begotten by Ἐλιακίμ."
+    }
+  ]
+}

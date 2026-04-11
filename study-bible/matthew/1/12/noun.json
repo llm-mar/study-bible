@@ -1,0 +1,29 @@
+{
+  "nouns": [
+    {
+      "noun": "μετοικεσίαν",
+      "translation": "exile (migration)",
+      "summary": "The text places the events “after the exile/migration,” indicating that the births that follow occur following this period of exile."
+    },
+    {
+      "noun": "Βαβυλῶνος",
+      "translation": "Babylon",
+      "summary": "Babylon is referenced through the phrase “the exile of Babylon,” establishing that the generational events occur after Babylon’s exile/migration period."
+    },
+    {
+      "noun": "Ἰεχονίας",
+      "translation": "Jechoniah",
+      "summary": "Jechoniah is said to have begotten (fathered) Σαλαθιήλ in the sequence of the genealogy."
+    },
+    {
+      "noun": "Σαλαθιήλ",
+      "translation": "Salathiel",
+      "summary": "Salathiel is identified as the son who is begotten by Ἰεχονίας, and he then begot Ζοροβαβέλ."
+    },
+    {
+      "noun": "Ζοροβαβέλ",
+      "translation": "Zerubbabel",
+      "summary": "Zerubbabel is described as the child begotten by Σαλαθιήλ within the genealogy sequence."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrases": [
+    {
+      "phrase": "Ἐλιοὺδ δὲ ἐγέννησεν τὸν Ἐλεάζαρ",
+      "translation": "And Elioud begot Eleazar.",
+      "summary": "The text states that Elioud gave birth to (begot) Eleazar, establishing a father-son relationship in the genealogy."
+    },
+    {
+      "phrase": "Ἐλεάζαρ δὲ ἐγέννησεν τὸν Ματθάν",
+      "translation": "And Eleazar begot Matthan.",
+      "summary": "The text states that Eleazar gave birth to (begot) Matthan, continuing the genealogical lineage through the next generation."
+    },
+    {
+      "phrase": "Ματθὰν δὲ ἐγέννησεν τὸν Ἰακώβ",
+      "translation": "And Matthan begot Jacob.",
+      "summary": "The text states that Matthan gave birth to (begot) Jacob, completing this sequence of the genealogy by naming the next generation."
+    },
+    {
+      "phrase": "Ἐλιοὺδ δὲ ἐγέννησεν τὸν Ἐλεάζαρ, Ἐλεάζαρ δὲ ἐγέννησεν τὸν Ματθάν, Ματθὰν δὲ ἐγέννησεν τὸν Ἰακώβ,",
+      "translation": "Elioud begot Eleazar; Eleazar begot Matthan; Matthan begot Jacob.",
+      "summary": "The text provides a short genealogical sequence, asserting successive birth relationships from Elioud to Eleazar, from Eleazar to Matthan, and from Matthan to Jacob."
+    }
+  ]
+}

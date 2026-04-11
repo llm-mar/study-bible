@@ -1,0 +1,24 @@
+{
+  "phrases": [
+    {
+      "phrase": "Ἀζὼρ δὲ ἐγέννησεν τὸν Σαδώκ,",
+      "translation": "And Azor begot Sadoc,",
+      "summary": "The text states that Azor is the parent who begot (gave birth to) Sadoc."
+    },
+    {
+      "phrase": "Σαδὼκ δὲ ἐγέννησεν τὸν Ἀχίμ,",
+      "translation": "Sadoc begot Achim,",
+      "summary": "The text states that Sadoc is the parent who begot (gave birth to) Achim."
+    },
+    {
+      "phrase": "Ἀχὶμ δὲ ἐγέννησεν τὸν Ἐλιούδ,",
+      "translation": "And Achim begot Eliud,",
+      "summary": "The text states that Achim is the parent who begot (gave birth to) Eliud."
+    },
+    {
+      "phrase": "Ἀζὼρ δὲ ἐγέννησεν τὸν Σαδώκ, Σαδὼκ δὲ ἐγέννησεν τὸν Ἀχίμ, Ἀχὶμ δὲ ἐγέννησεν τὸν Ἐλιούδ,",
+      "translation": "And Azor begot Sadoc, Sadoc begot Achim, and Achim begot Eliud.",
+      "summary": "Taken together, the text presents a sequence of genealogical parent-child relationships, describing Azor → Sadoc → Achim → Eliud as successive generations."
+    }
+  ]
+}

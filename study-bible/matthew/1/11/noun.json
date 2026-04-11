@@ -1,0 +1,29 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἰωσίας",
+      "translation": "Josiah",
+      "summary": "Josiah is stated to have “begotten”/given birth to the child mentioned in the text (Ἰεχονίαν), with the birth occurring during the time described as Babylon’s deportation."
+    },
+    {
+      "noun": "Ἰεχονίαν",
+      "translation": "Jeconiah",
+      "summary": "Jeconiah is named as the person whom Josiah begot/gave birth to, and this birth is placed in the timeframe of Babylon’s deportation."
+    },
+    {
+      "noun": "ἀδελφοὺς",
+      "translation": "brothers",
+      "summary": "Josiah is also said to have begotten Jeconiah’s brothers, indicating that multiple brothers are born as part of the same event/time referenced by the text (the deportation of Babylon)."
+    },
+    {
+      "noun": "μετοικεσίας",
+      "translation": "deportation / resettlement (exile)",
+      "summary": "The text references a deportation/resettlement (exile) as the circumstance under which Josiah’s birth of Jeconiah and his brothers is said to occur, linking their birth to that historical event."
+    },
+    {
+      "noun": "Βαβυλῶνος",
+      "translation": "Babylon",
+      "summary": "Babylon is identified as the location associated with the deportation/resettlement mentioned in the text, i.e., the brothers’ and Jeconiah’s birth is tied to the deportation to Babylon."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "phrases": [
+    {
+      "phrase": "Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ",
+      "translation": "And Jacob begot Joseph.",
+      "summary": "The text states that Jacob fathered (begot) Joseph. This is presented as genealogical information about Joseph’s parentage."
+    },
+    {
+      "phrase": "τὸν ἄνδρα Μαρίας",
+      "translation": "the husband of Mary.",
+      "summary": "The text identifies Joseph as Mary’s husband, indicating Joseph’s marital relationship to Mary in the genealogy."
+    },
+    {
+      "phrase": "ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος Χριστός",
+      "translation": "from whom was born Jesus, the one called Christ.",
+      "summary": "The text states that Mary (the referent of “ἧς”) gave birth to Jesus. It further identifies Jesus as “the one called Christ,” linking the birth to this title."
+    }
+  ]
+}

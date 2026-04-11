@@ -1,0 +1,24 @@
+{
+  "nouns": [
+    {
+      "noun": "Ἐλιοὺδ",
+      "translation": "Elioud",
+      "summary": "In the text, Ἐλιοὺδ is stated to have fathered/begotten Ἐλεάζαρ."
+    },
+    {
+      "noun": "Ἐλεάζαρ",
+      "translation": "Eleazar",
+      "summary": "In the text, Ἐλεάζαρ is stated to have fathered/begotten Ματθάν."
+    },
+    {
+      "noun": "Ματθάν",
+      "translation": "Matthan",
+      "summary": "In the text, Ματθάν is stated to have fathered/begotten Ἰακώβ."
+    },
+    {
+      "noun": "Ἰακώβ",
+      "translation": "Jacob",
+      "summary": "Ἰακώβ is identified as the person who is begotten by Ματθάν in the sequence of generations given in the text."
+    }
+  ]
+}

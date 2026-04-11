@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Whom did Ἐλιούδ (Elioud) beget?",
+      "answers": "Ἐγέννησεν τὸν Ἐλεάζαρ (he begot Eleazar)."
+    },
+    {
+      "question": "Whom did Ἐλεάζαρ (Eleazar) beget?",
+      "answers": "Ἐγέννησεν τὸν Ματθάν (he begot Matthan)."
+    },
+    {
+      "question": "Whom did Ματθάν (Matthan) beget?",
+      "answers": "Ἐγέννησεν τὸν Ἰακώβ (he begot Jacob)."
+    }
+  ]
+}
