@@ -1,0 +1,24 @@
+{
+  "verbs": [
+    {
+      "verb": "יִרְאֶה",
+      "translation": "will see",
+      "summary": "יִרְאֶה (from ראה) is a Qal imperfect form with a prefix י, functioning with a future/prospective sense in this prophetic/poetic context: “he will see.” It is active in voice and typically takes its object by context, here introduced by the surrounding clause that links seeing to the outcome of “the travail of his soul.” Grammatically, it begins a sequence of actions describing what “he” will experience."
+    },
+    {
+      "verb": "יִשְׂבָּע",
+      "translation": "will be satisfied",
+      "summary": "יִשְׂבָּע (from שׂבע) is a yiqtol/imperfect form used with an inceptive-result meaning: “he will be satisfied.” Morphologically it expresses an intransitive/passive-like state (i.e., satisfaction rather than an action done by someone), and semantically it parallels יִרְאֶה in a poetic doublet. The phrase “בְּדַעְתֹּו” (“with his knowledge”) functions as a specifying complement, describing what brings about that satisfaction."
+    },
+    {
+      "verb": "יַצְדִּיק",
+      "translation": "will justify (make righteous)",
+      "summary": "יַצְדִּיק (from צדק) is a Hiphil imperfect form, which is causative/transitive in meaning: “will justify” or “will make righteous.” It carries an active causative sense in which the subject (described as “צַדִּיק… עַבְדִּי,” “my righteous servant”) is the agent who brings about righteousness for others. In sentence structure it follows the prior clause and extends the sequence of future outcomes, with “לָרַבִּים” (“many”) functioning as the object/target of the justification."
+    },
+    {
+      "verb": "יִסְבֹּל",
+      "translation": "will bear",
+      "summary": "יִסְבֹּל (from סבל) is a Qal imperfect form used with future/prospective force: “he will bear.” It is active and takes “עֲוֹנֹתָם” (“their iniquities/sins”) as the direct object, indicated by the preceding noun with waw (“וַעֲוֹנֹתָם”). The clause “הוּא יִסְבֹּל” emphasizes the subject (“he”) to contrast/clarify agency, presenting the bearing of sins as a decisive action in the overall description."
+    }
+  ]
+}

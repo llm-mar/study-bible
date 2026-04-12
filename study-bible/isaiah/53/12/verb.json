@@ -1,0 +1,34 @@
+{
+  "verbs": [
+    {
+      "verb": "אֲחַלֶּק",
+      "translation": "I will divide",
+      "summary": "אֲחַלֶּק is a 1st person singular imperfect (Qal) used with לָכֵן (“therefore”), expressing the speaker’s future/intended action. It functions as the main predicate of the clause, with an object introduced by the following prepositional phrase (־לו) and further specified by the following nouns (“with the many” / “the strong”). Semantically it conveys distribution/assignment of a portion as a promised outcome."
+    },
+    {
+      "verb": "יְחַלֵּק",
+      "translation": "(he) shall divide",
+      "summary": "יְחַלֵּק is a 3rd person singular imperfect form (from the חילק root) used in parallel to אֲחַלֶּק. It carries a future/prophetic sense, continuing the description of what “he” will do. Grammatically it serves as the main verb of its clause, taking an object (שָׁלָל = “spoil”) and linking back to the preceding idea of distribution, but shifting focus from the speaker’s dividing to the recipient’s dividing."
+    },
+    {
+      "verb": "הֶעֱרָה",
+      "translation": "poured out",
+      "summary": "הֶעֱרָה is a perfect (3rd person singular) from the ערה root, used here in the subordinate reason clause introduced by תַחַת אֲשֶׁר (“because/inasmuch as that”). The perfect form presents the action as completed in the narrative logic of the verse—describing what has already happened to the subject (“he poured out his soul to death”). Voice is active in sense (the subject performs the pouring out), and it grounds the later rewards mentioned in the opening clauses."
+    },
+    {
+      "verb": "נִמְנָה",
+      "translation": "was numbered",
+      "summary": "נִמְנָה is a Nifal perfect (3rd person singular), which is passive/reflexive in function. It appears in the same “because/that” reason clause, describing the subject as being placed/recorded among others. Grammatically it functions as a passive predicate with an explicit complement (וְאֶת־פֹּשְׁעִים = “with/transgressors”), conveying that the subject was counted among transgressors—an enacted status rather than an active choice."
+    },
+    {
+      "verb": "נָשָׂא",
+      "translation": "bore",
+      "summary": "נָשָׂא is a Qal perfect (3rd person singular), active in meaning. It follows הוּא (“he”), functioning as the main verb in a clause that further explains the basis for the reward: “he bore the sin of many.” The perfect tense continues the completed-action depiction within the reason clause, emphasizing substitutionary/representative bearing as a real, accomplished outcome."
+    },
+    {
+      "verb": "יַפְגִּיעַ",
+      "translation": "will make intercession (bring/meet)",
+      "summary": "יַפְגִּיעַ is an imperfect (3rd person singular) with future/prospective force in the final clause, still within the overall explanatory section begun by אֲשֶׁר. It describes what the subject will do “for the transgressors” (לַפֹּשְׁעִים). Grammatically it functions as the clause’s main verb, and semantically פגע in this causative/active usage conveys bringing someone help/attention or acting as mediator—best captured by “make intercession.” The imperfect highlights ongoing or consequential future effect relative to the completed events described by the preceding perfects."
+    }
+  ]
+}
