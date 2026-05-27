@@ -14,16 +14,15 @@
 
 | teaching |
 | --- |
-| Christ speaks so that believers may have peace “in” Him. |
-| Hardship/pressure (tribulation) is expected in the world. |
-| Despite worldly troubles, believers should be courageous and not fear. |
-| Confidence is grounded in the fact that Christ has already conquered the world. |
+| In Christ, believers can have peace—these teachings are given so you “may have peace in me.” |
+| Life in the world includes pressure and suffering (“in the world you have tribulation”). |
+| Despite worldly troubles, believers should take heart and be courageous, because Jesus has already overcome the world (“I have overcome the world”). |
 
 **goals:**
 
 | goal |
 | --- |
-| To comfort and encourage the audience—assuring them they can have peace in Christ and face worldly tribulation with courage because Christ has overcome the world. |
+| To comfort and encourage the audience to persevere through suffering by grounding their courage in the peace and victory of Jesus. |
 
 
 ## Question Analysis
@@ -32,34 +31,33 @@
 
 | question | answers |
 | --- | --- |
-| Why did the speaker tell them these things? | So that they may have peace in him. |
-| What can they have in the speaker (in him)? | Peace (ειρήνη). |
-| What do they have in the world? | Affliction/tribulation (θλῖψιν). |
-| How should they respond despite having tribulation in the world? | Be courageous/take heart (θαρσεῖτε). |
-| What does the speaker say he has done regarding the world? | He has overcome/victory over the world (ἐγὼ νενίκηκα τὸν κόσμον). |
+| Why did the speaker say these things to the audience? | So that they may have peace in him. |
+| What do the audience have in the world? | They have tribulation (affliction/pressure) in the world. |
+| What should the audience do despite their tribulation? | Be of good courage (take heart). |
+| What has the speaker accomplished regarding the world? | He has overcome (conquered) the world. |
 
 
 ## Author Analysis
 
 **origin:**
 
-- A passage from the New Testament—specifically the farewell/discourse section of the Gospel of John—where Jesus reassures his disciples before his departure and frames faith in the face of persecution (“In the world you have tribulation, but take courage…”).
+- A passage from Christian scripture (the Gospel of John), part of Jesus’ farewell/discourse to his disciples. It functions as a reassurance: believers will face “tribulation” in the world but can have “peace” because Jesus has “overcome” the world.
 
 **author:**
 
-- Most likely the evangelist/author traditionally associated with the Gospel of John (often attributed to John the Apostle, though modern scholarship typically treats the Gospel as written by an unknown Johannine author/redactor). The immediate speaker within the text is Jesus.
+- Most likely the Johannine community/tradition behind the Gospel of John (often attributed to the Apostle John, though modern scholars usually describe it more cautiously as authored/compiled by a Johannine writer or school).
 
 **thoughts:**
 
-- The author’s (or speaker’s) perspective is pastoral and exhortative: acknowledging that believers will experience hardship in the “world,” but motivating them with confidence—because victory over the world is already achieved. The motivation appears to be strengthening morale and preserving faith under pressure by grounding hope in a promised/assured divine triumph.
+- The author’s perspective is pastoral and consoling—aimed at strengthening faith under hardship. The motivation appears to be to counter fear and persecution by grounding hope in Jesus’ victory over the world, turning suffering (“θλῖψις”) into something temporary and spiritually meaningful.
 
 **audience:**
 
-- Disciples/early believers who are facing or anticipating distress and opposition; broader Christian readers looking for encouragement to remain steadfast.
+- Early Christian believers/disciples who are experiencing pressure or persecution (“in the world”) and who need encouragement to remain steadfast and trust in Christ’s triumph.
 
 **written_when:**
 
-- The original sayings are situated in the historical period of Jesus (1st century CE), while the Gospel of John is generally dated to the late 1st century, around ~90–100 CE.
+- Late 1st century CE, commonly dated to around c. 90–100 CE (with some scholarly variation).
 
 
 ## Audience Analysis
@@ -68,12 +66,12 @@
 
 | interpretation |
 | --- |
-| The speaker (Jesus) is giving the disciples a “peace” that is only found by being joined to him—so even though they will experience hardship, his presence and words are meant to steady them. |
-| In the world they will face pressure or affliction (tribulation), but this is framed as something they must endure without losing heart; “peace” is not the removal of suffering but the ability to remain assured during it. |
-| The statement “I have conquered the world” would be understood as a decisive divine victory already accomplished by the speaker—over hostile powers, oppression, and the world’s destructive patterns—so the disciples can trust that their suffering is not final. |
-| For an audience living under Roman rule and social hostility, “the world” could be taken as the larger system of authority and persecution; the message would encourage perseverance because Christ’s victory places believers on the winning side despite outward defeat. |
-| “Peace in me” would also be heard as an internal, communal promise: the disciples’ unity and courage can be maintained through faith in the speaker, rather than by relying on changing worldly circumstances. |
-| The contrast between tribulation and courage (“be courageous”) could be interpreted as a call to resist despair—implying that fear is the main danger, and trust in the speaker’s victory is the proper response. |
+| The audience could understand this as Jesus’ final encouragement to his followers: they will face hardship (“tribulation”) in the present world, but they should take heart and live with a real sense of peace because Jesus has already overcome the world. |
+| “Peace” in the speaker (“in me”) likely would be heard as inward steadiness and unity with Jesus rather than the absence of suffering—so the disciples can experience a kind of stability even while persecution or social pressure continues. |
+| The line “I have conquered the world” may have been taken as a claim of decisive victory over hostile powers associated with “the world” (including systems of oppression and unbelief), assuring believers that evil does not have the final word. |
+| Some listeners could interpret the “conquest” in a salvation-historical sense—Jesus’ victory (anticipating death and resurrection) means that believers are already aligned with God’s ultimate triumph, giving them courage to endure suffering. |
+| Given the historical context of early Christian communities facing hostility, hearers could take this as a direct exhortation for perseverance: the presence of suffering should not be read as defeat, because the message promises eventual vindication through Jesus. |
+| The statement could also be heard as reassurance of God’s covenant faithfulness: Jesus speaks so that the disciples may possess peace because God is acting through him to bring deliverance, even if their circumstances remain difficult. |
 
 
 ## Noun Analysis
@@ -82,10 +80,9 @@
 
 | noun | translation | summary |
 | --- | --- | --- |
-| εἰρήνη | peace | The speaker says these words so that the recipients “may have peace” in him. The noun is presented as a state the audience is meant to possess while being associated with the speaker. |
-| θλῖψιν | tribulation, affliction | The text states that in the world the recipients “have tribulation.” The noun describes the suffering/pressure they are experiencing as an ongoing condition in that setting. |
-| κόσμῳ | world | The speaker characterizes the setting where the recipients “have tribulation,” saying “in the world.” He also contrasts that with confidence, declaring that he has “overcome the world,” indicating that the world is an arena of trouble that he has conquered. |
-| κόσμον | world | The noun appears again in the phrase “I have overcome the world.” Here it is tied directly to the speaker’s past action of conquering and overcoming it, which is given as the basis for the recipients to take courage. |
+| εἰρήνην | peace | The speaker says he has told these things so that the listeners may have peace in him. Peace is presented as something the listeners are able to possess as a result of what is spoken. |
+| κόσμῳ / κόσμον | world | The speaker states that, in the world, the listeners have tribulation. He also declares that he has already conquered the world, linking the listeners’ experience in the world with his victory over it. |
+| θλῖψιν | tribulation / affliction | The speaker declares that the listeners have tribulation in the world. This noun describes a condition that the listeners are currently experiencing as part of their life in the world. |
 
 
 ## Verb Analysis
@@ -94,11 +91,11 @@
 
 | verb | translation | summary |
 | --- | --- | --- |
-| λελάληκα | I have spoken / I have told | λελάληκα is a **perfect active indicative, 1st-person singular** form of λαλῶ (“to speak”). In the main clause it functions as the finite verb asserting a completed but continuing action (“I have told you these things”). Its perfect aspect highlights that the speaking has happened and remains relevant to the hearers. |
-| ἔχητε | that you may have | ἔχητε is a **present active subjunctive, 2nd-person plural** form of ἔχω (“to have”), used after ἵνα. It forms a purpose/result clause introduced by **ἵνα** (“in order that / so that”), expressing the desired outcome: that the addressees may possess peace “in me.” Mood is **subjunctive** because it depends on the purpose/result particle rather than stating a direct fact. |
-| ἔχετε | you have | ἔχετε is a **present active indicative, 2nd-person plural** form of ἔχω (“to have”). It introduces a declarative statement about the recipients’ present situation “in the world”: they are experiencing/holding to “affliction.” The indicative mood presents this as a real, observable condition. |
-| θαρσεῖτε | be of good courage / take heart | θαρσεῖτε is a **present active imperative, 2nd-person plural** form of θαρσέω (“to take courage”). In the sentence it appears after ἀλλὰ as a direct exhortation/command, contrasting with the preceding statement about tribulation. The imperative mood marks it as a request for action/attitude rather than a description of fact. |
-| νενίκηκα | I have overcome / I have conquered | νενίκηκα is a **perfect active indicative, 1st-person singular** form of νικάω (“to conquer, win”). It serves as the finite verb in the second main claim, contrasting with the believers’ tribulation: Christ speaks as victor, emphasizing a decisive victory that stands as present reality (“I have conquered the world”). Indicative mood states the truth of the claim. |
+| λελάληκα | I have spoken / I have told | λέλαληκα is a Greek perfect active indicative, 1st person singular, from the verb λαλέω (“to speak/talk”). It presents Jesus’ speaking of “these things” to the audience as a completed action with continuing relevance. Grammatically it is the main verb of its clause (with the direct object implied by “ταῦτα” and the dative “ὑμῖν” indicating to whom). |
+| ἔχητε | you may have | ἔχητε is a Greek present active subjunctive, 2nd person plural, from ἔχω (“to have”). It appears in a purpose/result clause introduced by ἵνα (“so that”), expressing what the hearers should obtain: that they “have” peace in the speaker. The active voice indicates the subject participates in possessing/experiencing peace, and the subjunctive mood frames it as desired/expected rather than simply asserted. |
+| ἔχετε | you have (tribulation) | ἔχετε is a Greek present active indicative, 2nd person plural, from ἔχω (“to have”). It states, as a factual general situation, that “in the world” the readers experience “tribulation” (θλῖψιν). The verb is active (the subject undergoes/possesses the condition) and indicative mood presents it as an objective reality. |
+| θαρσεῖτε | take courage / be of good cheer | θαρσεῖτε is a Greek present active imperative, 2nd person plural, from θαρρέω (“to be of good courage”). It functions as a direct command, introduced by ἀλλά (“but”), contrasting with the preceding reality of tribulation. The present imperative conveys an ongoing/continuous kind of encouragement: keep on taking heart. Active voice means the subjects are to enact/cultivate that attitude. |
+| νενίκηκα | I have overcome / I have conquered | νενίκηκα is a Greek perfect active indicative, 1st person singular, from νικάω (“to conquer/overcome”). It asserts as a completed and decisive victory with enduring effect that “I have overcome the world” (τὸν κόσμον). Grammatically it serves as the main verb of its clause, emphasizing the result/state implied by the perfect tense. |
 
 
 ## Phrase Analysis
@@ -107,30 +104,30 @@
 
 | phrase | translation | summary |
 | --- | --- | --- |
-| ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε. | I have spoken these things to you so that you may have peace in me. | The speaker states that these words have been spoken to the listeners for a specific purpose: so that the listeners would possess peace in the speaker. The focus is on the listeners’ intended state of having peace, made possible by the speaker’s message. |
-| ἐν τῷ κόσμῳ θλῖψιν ἔχετε· | In the world you have tribulation. | The speaker describes the listeners’ condition in the world as a state of suffering/affliction (“tribulation”). This indicates that, while in the world, the listeners are currently experiencing or will face pressure and distress. |
-| ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον. | But take heart; I have overcome the world. | Despite the tribulation, the speaker urges the listeners to be courageous and encouraged (“take heart,” “be of good courage”). The speaker also grounds this encouragement in an accomplished result: the speaker has already overcome the world. |
+| ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε. | “I have spoken these things to you so that you may have peace in me.” | The speaker says they have already been telling/declaring these things to the listeners. The purpose of what was said is stated as enabling the listeners to have peace in the speaker. |
+| ἐν τῷ κόσμῳ θλῖψιν ἔχετε· | “In the world you have tribulation/pressures.” | The speaker states that, in the world, the listeners are experiencing tribulation. This describes a current condition the listeners have while they are in the world. |
+| ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον. | “But be courageous; I have overcome the world.” | The speaker issues a direct instruction to the listeners to take courage. Alongside that exhortation, the speaker asserts that he has already overcome the world, grounding the listeners’ courage in his victory. |
 
 
 ## Translation Analysis
 
 **translation:**
 
-- I have told you these things so that in me you may have peace. In the world you have tribulation; but take courage, I have conquered the world.
+- I have told you these things so that you may have peace in me. In the world you have trouble; but take courage, I have conquered the world.
 
 **alternate_translations:**
 
 | translation | notes |
 | --- | --- |
-| I have said these things to you so that you may have peace in me. In the world you will have trouble; but be of good courage, for I have overcome the world. | “θλῖψιν ἔχετε” can be rendered either as “you have tribulation/trouble” (present) or “you will have trouble” (prophetic/ongoing sense). “θαῤσεῖτε” is often translated “be of good courage.” The core meaning remains the same. |
-| I told you this so that you might have peace in me. You will face affliction in the world, but be courageous: I have defeated the world. | “θλῖψις” can mean affliction/pressure/suffering; “ἐγὼ νενίκηκα” is a perfect tense emphasizing a completed victory with ongoing effect—“I have defeated/conquered” reflects that. |
+| I have said these things to you so that you may have peace—because of me. In the world you will have tribulation; but be of good cheer, I have overcome the world. | “θλῖψιν ἔχετε” can be rendered as “tribulation” and “ἐν τῷ κόσμῳ” as “in the world,” while “θαρασεῖτε” is often translated idiomatically as “be of good cheer.” “ἐγὼ νενίκηκα” strongly conveys a completed victory (“have overcome/conquered”). |
+| I told you these things, so that you might have peace in me. You will have affliction in the world; however, take heart—I have won the world. | “θλῖψις” is frequently translated “affliction.” “θαρασεῖτε” can also be “take heart.” “ἔχω/νενίκηκα” indicates a past, abiding result: “I have won.” |
 
 **notes:**
 
-- This passage is commonly associated with John 16:33. “εἰρήνην” is not merely the absence of conflict but a peace grounded “in me” (i.e., in Christ). “θλῖψιν” (“tribulation/affliction/trouble”) contrasts with that peace: believers experience hardship in the world, yet are encouraged to courage because of Christ’s completed victory over the world (“ὁ κόσμος”).
+- This passage is from the New Testament (Johannine context). “Εἰρήνη” here is not merely the absence of conflict but a peace grounded “in/through” Christ (“ἐν ἐμοί”). “θλῖψιν” denotes pressure, distress, or trouble (often “tribulation”). The final clause emphasizes Christ’s already-accomplished victory over “the world” (κόσμος), meaning the hostile system/world-order opposed to God.
 
 
 ---
 
-**Generated:** Tue May 26 22:41:35 -03 2026
+**Generated:** Tue May 26 22:47:49 -03 2026
 **Source Directory:** /root/study-bible/study-bible/john/16/33

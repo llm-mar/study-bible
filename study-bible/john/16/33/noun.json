@@ -1,24 +1,19 @@
 {
   "nouns": [
     {
-      "noun": "εἰρήνη",
+      "noun": "εἰρήνην",
       "translation": "peace",
-      "summary": "The speaker says these words so that the recipients “may have peace” in him. The noun is presented as a state the audience is meant to possess while being associated with the speaker."
+      "summary": "The speaker says he has told these things so that the listeners may have peace in him. Peace is presented as something the listeners are able to possess as a result of what is spoken."
+    },
+    {
+      "noun": "κόσμῳ / κόσμον",
+      "translation": "world",
+      "summary": "The speaker states that, in the world, the listeners have tribulation. He also declares that he has already conquered the world, linking the listeners’ experience in the world with his victory over it."
     },
     {
       "noun": "θλῖψιν",
-      "translation": "tribulation, affliction",
-      "summary": "The text states that in the world the recipients “have tribulation.” The noun describes the suffering/pressure they are experiencing as an ongoing condition in that setting."
-    },
-    {
-      "noun": "κόσμῳ",
-      "translation": "world",
-      "summary": "The speaker characterizes the setting where the recipients “have tribulation,” saying “in the world.” He also contrasts that with confidence, declaring that he has “overcome the world,” indicating that the world is an arena of trouble that he has conquered."
-    },
-    {
-      "noun": "κόσμον",
-      "translation": "world",
-      "summary": "The noun appears again in the phrase “I have overcome the world.” Here it is tied directly to the speaker’s past action of conquering and overcoming it, which is given as the basis for the recipients to take courage."
+      "translation": "tribulation / affliction",
+      "summary": "The speaker declares that the listeners have tribulation in the world. This noun describes a condition that the listeners are currently experiencing as part of their life in the world."
     }
   ]
 }

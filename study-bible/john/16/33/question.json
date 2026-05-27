@@ -1,24 +1,20 @@
 {
   "questions": [
     {
-      "question": "Why did the speaker tell them these things?",
+      "question": "Why did the speaker say these things to the audience?",
       "answers": "So that they may have peace in him."
     },
     {
-      "question": "What can they have in the speaker (in him)?",
-      "answers": "Peace (ειρήνη)."
+      "question": "What do the audience have in the world?",
+      "answers": "They have tribulation (affliction/pressure) in the world."
     },
     {
-      "question": "What do they have in the world?",
-      "answers": "Affliction/tribulation (θλῖψιν)."
+      "question": "What should the audience do despite their tribulation?",
+      "answers": "Be of good courage (take heart)."
     },
     {
-      "question": "How should they respond despite having tribulation in the world?",
-      "answers": "Be courageous/take heart (θαρσεῖτε)."
-    },
-    {
-      "question": "What does the speaker say he has done regarding the world?",
-      "answers": "He has overcome/victory over the world (ἐγὼ νενίκηκα τὸν κόσμον)."
+      "question": "What has the speaker accomplished regarding the world?",
+      "answers": "He has overcome (conquered) the world."
     }
   ]
 }
