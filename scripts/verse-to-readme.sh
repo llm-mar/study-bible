@@ -93,18 +93,27 @@ try:
         \"\"\"Create a markdown table from list of dicts\"\"\"
         result = []
         
+        # Limit column width for very long text
+        max_col_width = 150
+        
         # Header
         header = '| ' + ' | '.join(columns) + ' |'
         separator = '|' + '|'.join([' --- ' for _ in columns]) + '|'
         result.append(header)
         result.append(separator)
         
-        # Rows
+        # Rows - truncate long values to prevent table breaks
         for item in items:
             row_vals = []
             for col in columns:
                 val = item.get(col, '')
-                row_vals.append(str(val))
+                val_str = str(val)
+                # For very long content, keep it but don't break it
+                if len(val_str) > max_col_width:
+                    val_str = val_str[:max_col_width] + '...'
+                # Escape pipes in content
+                val_str = val_str.replace('|', r'\|')
+                row_vals.append(val_str)
             row = '| ' + ' | '.join(row_vals) + ' |'
             result.append(row)
         
@@ -140,14 +149,15 @@ try:
             if len(items) == 0:
                 return result
             
-            # Check if this should be a table
+            # Check if this should be a table (list of dicts with same structure)
             if is_uniform_list(items):
                 columns = list(items[0].keys())
+                # Skip table formatting for very nested structures
                 table_lines = format_table(items, columns)
                 for line in table_lines:
                     result.append(line)
             else:
-                # Regular list formatting
+                # Regular list formatting for mixed or non-dict items
                 for idx, item in enumerate(items):
                     if isinstance(item, dict):
                         for k, v in item.items():
@@ -155,21 +165,35 @@ try:
                                 result.append(prefix + f'**{k}:**')
                                 result.extend(format_items(v, indent + 1))
                             else:
-                                result.append(prefix + f'- **{k}:** {v}')
+                                # Clean up long strings
+                                v_str = str(v)
+                                if len(v_str) > 120:
+                                    result.append(prefix + f'- **{k}:** {v_str}')
+                                else:
+                                    result.append(prefix + f'- **{k}:** {v_str}')
                         if idx < len(items) - 1:
                             result.append('')
                     else:
                         result.append(prefix + f'- {item}')
         elif isinstance(items, dict):
+            # For dicts, format as bullet list (not table)
             for k, v in items.items():
                 if isinstance(v, list):
-                    result.append(prefix + f'**{k}:**')
-                    result.extend(format_items(v, indent + 1))
+                    # Only create table if list is uniform and not too deeply nested
+                    if is_uniform_list(v) and indent < 1:
+                        result.append(prefix + f'**{k}:**')
+                        result.append('')
+                        result.extend(format_items(v, indent))
+                        result.append('')
+                    else:
+                        result.append(prefix + f'**{k}:**')
+                        result.extend(format_items(v, indent + 1))
                 elif isinstance(v, dict):
                     result.append(prefix + f'**{k}:**')
                     result.extend(format_items(v, indent + 1))
                 else:
-                    result.append(prefix + f'- **{k}:** {v}')
+                    v_str = str(v)
+                    result.append(prefix + f'- **{k}:** {v_str}')
         return result
     
     # Check if data is empty

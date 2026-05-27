@@ -1,34 +1,39 @@
 {
   "phrases": [
     {
-      "phrase": "ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε.",
-      "translation": "I have told you these things so that you may have peace in me.",
-      "summary": "The speaker says that they have told the listeners these things with a purpose: the listeners should be able to have peace in the speaker (i.e., the peace is to be found in the speaker)."
+      "phrase": "ταῦτα λελάληκα ὑμῖν",
+      "translation": "I have spoken these things to you.",
+      "summary": "The speaker says they have communicated these things directly to the listeners, indicating that the message is something already delivered and addressed to them."
     },
     {
-      "phrase": "ἐν ἐμοὶ εἰρήνην ἔχητε.",
-      "translation": "you may have peace in me.",
-      "summary": "The statement directly focuses on the listeners having peace, and it specifies that this peace is in the speaker. The listeners are positioned as those who can possess/experience that peace."
+      "phrase": "ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε",
+      "translation": "so that you may have peace in me.",
+      "summary": "The purpose of what was spoken is stated: the listeners are meant to possess/receive peace by being in the speaker (i.e., grounded in him)."
     },
     {
-      "phrase": "ἐν τῷ κόσμῳ θλῖψιν ἔχετε·",
-      "translation": "In the world you have tribulation/pressure/suffering.",
-      "summary": "The speaker declares that, within the world, the listeners are experiencing tribulation. It describes their current or ongoing state in relation to the world, setting up a contrast with what follows."
+      "phrase": "ἐν τῷ κόσμῳ θλῖψιν ἔχετε",
+      "translation": "In the world you have tribulation.",
+      "summary": "The speaker acknowledges that the listeners will experience or are experiencing distress/tribulation in the world, describing their current or expected condition in worldly life."
     },
     {
-      "phrase": "ἀλλὰ θαρσεῖτε,",
-      "translation": "But take courage / be encouraged.",
-      "summary": "The speaker issues an exhortation to the listeners to be courageous or encouraged. The listeners are called to actively respond with confidence despite the tribulation mentioned earlier."
+      "phrase": "ἀλλὰ θαρσεῖτε",
+      "translation": "but take heart / be encouraged.",
+      "summary": "The speaker urges the listeners to be courageous and encouraged despite the tribulation mentioned, giving an active instruction to maintain confidence."
     },
     {
-      "phrase": "ἐγὼ νενίκηκα τὸν κόσμον.",
-      "translation": "for I have overcome the world.",
-      "summary": "The speaker states that they have already won/overcome the world. This is presented as an achieved victory, which serves as the basis for the listeners’ encouragement and courage."
-    },
-    {
-      "phrase": "ἐγὼ νενίκηκα τὸν κόσμον.",
+      "phrase": "ἐγὼ νενίκηκα τὸν κόσμον",
       "translation": "I have overcome the world.",
-      "summary": "The speaker’s claim of having overcome the world is the concrete assurance being given. It indicates the speaker’s active/complete triumph that the listeners can rely on."
+      "summary": "The speaker declares that he has already achieved victory over the world, presenting himself as having overcome its influence or trials, which supports the encouragement to the listeners."
+    },
+    {
+      "phrase": "ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε.",
+      "translation": "I have spoken these things to you so that you may have peace in me.",
+      "summary": "The speaker frames the message they delivered as having the goal of enabling the listeners to hold/possess peace in him."
+    },
+    {
+      "phrase": "ἐν τῷ κόσμῳ θλῖψιν ἔχετε· ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον.",
+      "translation": "In the world you have tribulation; but take heart, I have overcome the world.",
+      "summary": "The speaker contrasts the listeners’ tribulation in the world with a command to be encouraged, grounded in his claim that he has already defeated/overcome the world."
     }
   ]
 }

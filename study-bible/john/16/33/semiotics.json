@@ -2,85 +2,70 @@
   "semiotic_analysis": {
     "key_symbols": [
       {
-        "symbol": "εἰρήνη (peace)",
-        "appears_where": "“ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε” (that in me you may have peace)",
-        "what_it_means": "Not just “absence of trouble,” but an inner stability grounded in relationship to the speaker (“in me”). Peace functions like an anchored state—something the hearer can possess even while circumstances remain unstable.",
-        "psychological_significance": "Addresses the need for emotional safety/reassurance. It helps the listener counter anxiety by offering a place of refuge that is not dependent on external conditions."
+        "symbol": "εἰρήνην (peace)",
+        "meaning": "A state of inner wholeness/rest that exists “in” the speaker (ἐν ἐμοί).",
+        "psychological_role": "Soothes anxiety by offering a stable inner ground rather than relying on external stability."
       },
       {
         "symbol": "ὁ κόσμος (the world)",
-        "appears_where": "“ἐν τῷ κόσμῳ θλῖψιν ἔχετε” (in the world you have tribulation) and “ἐγὼ νενίκηκα τὸν κόσμον” (I have overcome the world)",
-        "what_it_means": "“World” represents the external sphere of reality—life as it is experienced with pressure, risk, and limits. It’s also framed as something that can be challenged and defeated from within a higher vantage point.",
-        "psychological_significance": "Creates a clear external “problem-space” that can be named and confronted. Psychologically, it manages helplessness by turning diffuse threat (“life”) into a target (“the world”) that can be overcome."
+        "meaning": "The shared reality/sphere where conflict and pressures operate.",
+        "psychological_role": "Names a threatening external force so the reader can psychologically locate the source of distress and then challenge its power."
       },
       {
-        "symbol": "θλῖψις (tribulation/affliction)",
-        "appears_where": "“ἐν τῷ κόσμῳ θλῖψιν ἔχετε” (in the world you have tribulation)",
-        "what_it_means": "A word for pressure that squeezes the person—suffering as experienced, not merely as theory. It validates hardship as real rather than denying it.",
-        "psychological_significance": "Acknowledges a tension the hearer likely feels: “Trouble is real.” By naming it directly, the text reduces shame and denial, and makes room for endurance rather than pretending nothing hurts."
+        "symbol": "θλῖψιν (tribulation/pressure)",
+        "meaning": "Experiential suffering: stress, constraint, and emotional strain in lived reality.",
+        "psychological_role": "Validates pain (normalizes suffering) and prevents the reader from feeling uniquely broken."
       },
       {
-        "symbol": "θαῤσεῖτε / θαρσεῖτε (take courage / be encouraged)",
-        "appears_where": "“ἀλλὰ θαρσεῖτε” (but take courage)",
-        "what_it_means": "A directive to shift inner posture—from fear/fragility toward steadiness. Courage here is not naive optimism; it is a coached response to ongoing pressure.",
-        "psychological_significance": "Addresses the need for agency and emotional regulation. It gives the listener an actionable stance when external control is limited."
+        "symbol": "θαρσεῖτε (take heart/be courageous)",
+        "meaning": "An instruction to shift affect and action despite ongoing hardship.",
+        "psychological_role": "Counteracts learned helplessness by demanding agency and hope in the face of uncertainty."
       },
       {
         "symbol": "ἐγὼ νενίκηκα (I have overcome)",
-        "appears_where": "“ἐγὼ νενίκηκα τὸν κόσμον” (I have overcome the world)",
-        "what_it_means": "Victory is asserted as already accomplished. The speaker positions themself as a guarantor: the world’s ultimate power is not final.",
-        "psychological_significance": "Relieves existential dread by offering a meaning-structure: suffering is not the final word. This can soothe terror by supplying an overarching narrative of defeat for the threat."
-      },
-      {
-        "symbol": "ἐν ἐμοὶ (in me)",
-        "appears_where": "“ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε” (in me…peace)",
-        "what_it_means": "Peace is relationally located—“in the speaker,” not in self-generated control. The bond becomes the channel through which stability is received.",
-        "psychological_significance": "Meets the human need for attachment and trust. When life feels unsafe, locating safety “in another” can calm internal abandonment fears."
+        "meaning": "Claim of prior victory that grounds present reassurance.",
+        "psychological_role": "Replaces fear with protection through trust in an authority who is portrayed as already victorious."
       }
     ],
     "contradictions": [
       {
-        "contradiction": "Peace is promised as something the hearer can “have” (“in me…peace”), yet suffering is simultaneously affirmed as ongoing (“in the world…tribulation”).",
-        "why_it_matters": "Psychologically, this is a paradox designed to keep the listener from trading faith for wishful thinking. It supports a deeper coping model: peace is compatible with pain because peace is defined internally/relationally, not as “no suffering.”"
+        "tension": "Peace is promised as an internal possession (ἐν ἐμοί), while tribulation is said to remain unavoidable “in the world.”",
+        "significance": "Psychologically, it holds two truths at once: it refuses the fantasy that life will stop hurting, while still insisting that meaning and safety can exist internally."
       },
       {
-        "contradiction": "The world is portrayed as a place that produces pressure, yet the same “world” is said to be something the speaker has overcome.",
-        "why_it_matters": "This tension matters because it challenges literal expectations (“If it’s overcome, why do we still feel tribulation?”). The contradiction pushes the listener toward a layered meaning: ‘overcome’ may refer to ultimate authority or meaning, not immediate removal of all distress."
+        "tension": "The text commands courage (θαρσεῖτε) despite acknowledging ongoing pressure (θλῖψιν ἔχετε).",
+        "significance": "This tension can create a push-pull: readers may feel both permission to be distressed and pressure to perform hope—potentially producing emotional strain if the distress feels “not allowed.”"
       }
     ],
     "surface_vs_hidden": {
-      "surface_message": "“I’ve spoken to you so that you may have peace. You will face tribulation in the world; but be encouraged—I have overcome the world.”",
-      "hidden_message": "The text may be communicating: “Do not confuse peace with relief. External conditions may remain squeezing (‘tribulation’), but you can still be internally held (‘peace in me’) because the final fate of the world’s power is already decided.” It subtly shifts the listener’s focus from circumstances to trust, using authority (“I have overcome”) to convert fear into endurance."
+      "surface": "“I told you this so that you may have peace in me. In the world you have tribulation; but take heart, I have overcome the world.”",
+      "hidden": "Peace is not denial of suffering but a re-attachment of security to an internal relationship/authority. The “world” functions like a psychic threat-system: it is admitted as painful, yet its final power is neutralized by claiming an overriding victory. The message manages fear by splitting reality into ‘where pain happens’ vs ‘where safety is located.’"
     },
     "psychological_needs": [
       {
-        "need": "Reassurance against fear (safety/comfort in inner life)",
-        "how_text_addresses_it": "By explicitly granting peace as something the listener can “have” (“in me…peace”) rather than something they must manufacture under stress."
+        "need": "Anxiety relief without false optimism",
+        "how_addressed": "It explicitly affirms ongoing tribulation while offering peace ‘in’ the speaker, separating suffering from ultimate safety."
       },
       {
-        "need": "Validation of hardship without collapsing into despair",
-        "how_text_addresses_it": "By naming tribulation directly (“in the world you have tribulation”), the text acknowledges reality before urging courage."
+        "need": "Validation of suffering",
+        "how_addressed": "“In the world you have tribulation” grants recognition of hardship, reducing shame and isolation."
       },
       {
-        "need": "A sense of agency when external control is limited",
-        "how_text_addresses_it": "Through the command “take courage/ be encouraged,” the listener is given a controllable internal posture even when the world remains pressuring."
+        "need": "A controllable sense of hope",
+        "how_addressed": "“Take heart” is an action-oriented demand; hope is anchored in a completed victory (“I have overcome”)."
       },
       {
-        "need": "Meaning and hope with an authority-figure guarantee",
-        "how_text_addresses_it": "“I have overcome” supplies a narrative endpoint, implying that suffering is not meaningless and that the threat does not retain ultimate dominance."
-      },
-      {
-        "need": "Relational grounding/attachment (peace through connection)",
-        "how_text_addresses_it": "Peace is located “in me,” implying that attachment to the speaker functions as the psychological mechanism for stability."
+        "need": "Trust in protection by an authority",
+        "how_addressed": "Victory is attributed to the speaker, turning uncertainty into reliance rather than self-reliant coping."
       }
     ],
     "what_is_unsaid": {
-      "description": "The text does not specify how long tribulation will last, what form it will take, or how immediately the listener will feel peace. It also does not fully explain what ‘overcome the world’ concretely means—whether it is spiritual/ultimate defeat rather than immediate elimination of suffering. There is also an implicit boundary: peace is offered, but the listener must respond with courage/trust.",
-      "examples": "1) “ἐν τῷ κόσμῳ θλῖψιν ἔχετε” states tribulation is real, but leaves unanswered: *How much? For how long?* 2) “ἐγὼ νενίκηκα τὸν κόσμον” claims victory, but does not clarify *what has changed yet* in the listener’s immediate experience. 3) “ἵνα…εἰρήνην ἔχητε” promises peace ‘in me,’ without detailing the practical process (what the listener should do beyond trusting/courage).*"
+      "gaps": "The text does not explain how the promised peace is experienced in the moment (what practices, timing, or psychological process produces it). It also does not clarify what happens if someone still cannot feel peace.",
+      "examples": "No description of the “tribulation” specifics; no acknowledgement of grief, anger, or doubt beyond the command “take heart.” It states the truth of victory (“I have overcome”) without detailing the reader’s path toward believing it."
     },
     "emotional_tone": {
-      "overall_feeling": "Consoling but firm—paradoxical hope. It acknowledges pressure while authoritatively insisting on courage and an ultimate victory.",
-      "intended_effect": "To calm anxiety without denying suffering: move the listener from fear and resignation into trust-based endurance (peace that can coexist with tribulation)."
+      "tone": "Tender reassurance combined with firm directive; sober acknowledgment of hardship followed by triumphant confidence.",
+      "intended_effect": "To steady the reader emotionally: reduce fear, permit distress, and then reorient the inner focus from external threat to internal assurance."
     }
   }
 }

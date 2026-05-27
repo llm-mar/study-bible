@@ -2,28 +2,28 @@
   "verbs": [
     {
       "verb": "λελάληκα",
-      "translation": "have spoken / have told",
-      "summary": "λελάληκα is a Greek perfect active indicative, 1st person singular. In the main clause (“ταῦτα λελάληκα ὑμῖν”), it presents the speaking/telling as a completed action in the past with ongoing relevance, with the indicative mood asserting the statement as factual (“I have told you these things”). Its role is the finite verb that anchors the sentence."
+      "translation": "have told / have spoken",
+      "summary": "λελάληκα is a **perfect active indicative** (1st person singular) of λαλέω. In the main clause it functions as a finite verb that states a completed action with present relevance: “I have told you these things.” Semantically, the perfect emphasizes that the speech has lasting effect on the hearers (ὑμῖν)."
     },
     {
       "verb": "ἔχητε",
-      "translation": "may have / you may have",
-      "summary": "ἔχητε is a Greek present active subjunctive, 2nd person plural. It occurs in the purpose/clause introduced by ἵνα (“ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε”), where the subjunctive expresses intended outcome or purpose. Semantically, it means that the addressees should/are meant to have peace in the speaker (“you may have peace in me”). The mood and ἵνα make it subordinate, functioning as the verb inside the ἵνα clause."
+      "translation": "may have",
+      "summary": "ἔχητε is an **aorist?** actually **present active subjunctive** (2nd person plural) of ἔχω, used in a purpose/result-type construction introduced by **ἵνα**. It forms the subordinate clause expressing the intended aim: “so that you may have peace in me.” The subjunctive mood marks a desired or intended outcome rather than a direct assertion."
     },
     {
       "verb": "ἔχετε",
-      "translation": "have",
-      "summary": "ἔχετε is a Greek present active indicative, 2nd person plural. In “ἐν τῷ κόσμῳ θλῖψιν ἔχετε,” it states a present, general reality: “you have tribulation in the world.” The indicative mood marks it as a straightforward assertion, and the verb serves as the finite predicate of its clause."
+      "translation": "have / are experiencing",
+      "summary": "ἔχετε is a **present active indicative** (2nd person plural) of ἔχω. It states a general, ongoing reality in an independent clause: “in the world you have tribulation.” The indicative mood and present tense convey that the pressure (θλῖψιν) is characteristic and currently experienced rather than a one-time event."
     },
     {
       "verb": "θαρσεῖτε",
-      "translation": "take courage / be encouraged",
-      "summary": "θαρσεῖτε is a Greek present active imperative, 2nd person plural. In “ἀλλὰ θαρσεῖτε,” it introduces a direct command/encouragement contrasting with what precedes (“but take courage”). The imperative mood marks it as an exhortation rather than a statement of fact, and the present tense gives the command an ongoing/durable sense: “keep on being encouraged / take courage (now).”"
+      "translation": "take heart / be encouraged",
+      "summary": "θαρσεῖτε is a **present active imperative** (2nd person plural) of θαρσέω. It appears as a direct exhortation introduced by ἀλλά (“but/and”), commanding the audience to adopt a confident attitude: “but take heart.” Imperative mood means it functions to urge action/stance rather than to describe facts."
     },
     {
       "verb": "νενίκηκα",
-      "translation": "have overcome / have conquered",
-      "summary": "νενίκηκα is a Greek perfect active indicative, 1st person singular. In “ἐγὼ νενίκηκα τὸν κόσμον,” it declares the speaker’s victory as a completed act with continuing effect (“I have overcome the world”). The indicative mood presents this as certain truth, and the verb is the finite predicate that forms the final assertion in its clause."
+      "translation": "have overcome / have won",
+      "summary": "νενίκηκα is a **perfect active indicative** (1st person singular) of νικάω. It serves as the finite verb in a climactic statement: “I have overcome the world.” The perfect tense highlights a decisive victory that has abiding significance in the present, presented in declarative (indicative) form to ground the preceding exhortation."
     }
   ]
 }

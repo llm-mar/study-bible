@@ -27,49 +27,47 @@ spec:
       semiotic_analysis:
         key_symbols:
           - symbol: string
-            appears_where: array of strings
-            what_it_means: string
-            psychological_significance: string
+            meaning: string
+            psychological_role: string
         contradictions:
-          - contradiction: string
-            why_it_matters: string
+          - tension: string
+            significance: string
         surface_vs_hidden:
-          surface_message: string
-          hidden_message: string
+          surface: string
+          hidden: string
         psychological_needs:
           - need: string
-            how_text_addresses_it: string
+            how_addressed: string
         what_is_unsaid:
-          description: string
-          examples: array of strings
+          gaps: string
+          examples: string
         emotional_tone:
-          overall_feeling: string
+          tone: string
           intended_effect: string
     instructions: |
-      Analyze the text for meaning-making patterns and present findings clearly:
+      Analyze the text for meaning-making patterns. Keep responses concise for clear table formatting:
       
-      - key_symbols: array of objects. For each major word/idea that repeats or carries psychological weight, explain:
-        - symbol: the word or concept (e.g., "peace," "world," "tribulation")
-        - appears_where: list specific moments it appears in the text
-        - what_it_means: explain what this word/concept represents in the text
-        - psychological_significance: what psychological need or tension does this symbol address?
+      - key_symbols: array of objects with:
+        - symbol: the word/concept (e.g., "peace," "world," "tribulation")
+        - meaning: brief explanation of what it represents
+        - psychological_role: what psychological need does it address?
       
-      - contradictions: array of objects. Identify tensions or conflicting messages:
-        - contradiction: describe the tension (e.g., "peace promised vs. ongoing suffering")
-        - why_it_matters: explain why this contradiction is psychologically significant
+      - contradictions: array of objects with:
+        - tension: describe the contradiction concisely
+        - significance: why this matters psychologically
       
       - surface_vs_hidden: 
-        - surface_message: what does the text seem to be saying overtly?
-        - hidden_message: what might the text be trying to communicate beneath the surface?
+        - surface: what the text overtly says
+        - hidden: what lies beneath the surface meaning
       
-      - psychological_needs: array of objects. What human/psychological needs is the text trying to meet?
-        - need: the psychological need (e.g., reassurance, control, belonging)
-        - how_text_addresses_it: how does the text fulfill or promise to fulfill this need?
+      - psychological_needs: array of objects with:
+        - need: the psychological need (concise phrase)
+        - how_addressed: how the text fulfills this need
       
-      - what_is_unsaid:
-        - description: what important things are NOT directly stated but might be implied?
-        - examples: specific moments where something is implied but not explicitly said
+      - what_is_unsaid: object with:
+        - gaps: what important things are implied but not stated
+        - examples: specific moments showing what's left unsaid
       
-      - emotional_tone:
-        - overall_feeling: what is the emotional atmosphere of the text? (somber, hopeful, anxious, commanding, consoling, etc.)
-        - intended_effect: what emotional state does the text seem designed to create in the listener?
+      - emotional_tone: object with:
+        - tone: the emotional atmosphere
+        - intended_effect: what emotional state it creates
