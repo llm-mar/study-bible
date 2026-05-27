@@ -1,19 +1,19 @@
 {
   "nouns": [
     {
-      "noun": "εἰρήνην",
+      "noun": "εἰρήνη",
       "translation": "peace",
-      "summary": "The speaker says he has told these things so that the listeners may have peace in him. Peace is presented as something the listeners are able to possess as a result of what is spoken."
+      "summary": "The speaker says these things so that the listeners may “have peace” in him (ἐν ἐμοὶ εἰρήνην ἔχητε), presenting peace as something they are to possess in their relationship with him."
     },
     {
-      "noun": "κόσμῳ / κόσμον",
+      "noun": "θλῖψις",
+      "translation": "tribulation, affliction",
+      "summary": "The speaker states that, in the world, the listeners “have tribulation” (ἐν τῷ κόσμῳ θλῖψιν ἔχετε), describing their ongoing experience of trouble while they are in the world."
+    },
+    {
+      "noun": "κόσμος",
       "translation": "world",
-      "summary": "The speaker states that, in the world, the listeners have tribulation. He also declares that he has already conquered the world, linking the listeners’ experience in the world with his victory over it."
-    },
-    {
-      "noun": "θλῖψιν",
-      "translation": "tribulation / affliction",
-      "summary": "The speaker declares that the listeners have tribulation in the world. This noun describes a condition that the listeners are currently experiencing as part of their life in the world."
+      "summary": "The speaker mentions the world as the sphere where the listeners experience tribulation, and also declares that he “has conquered the world” (ἐγὼ νενίκηκα τὸν κόσμον), encouraging them to take courage based on his victory over it."
     }
   ]
 }
