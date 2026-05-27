@@ -1,0 +1,29 @@
+{
+  "verbs": [
+    {
+      "verb": "λελάληκα",
+      "translation": "I have spoken / I have told",
+      "summary": "λελάληκα is a **perfect active indicative, 1st-person singular** form of λαλῶ (“to speak”). In the main clause it functions as the finite verb asserting a completed but continuing action (“I have told you these things”). Its perfect aspect highlights that the speaking has happened and remains relevant to the hearers."
+    },
+    {
+      "verb": "ἔχητε",
+      "translation": "that you may have",
+      "summary": "ἔχητε is a **present active subjunctive, 2nd-person plural** form of ἔχω (“to have”), used after ἵνα. It forms a purpose/result clause introduced by **ἵνα** (“in order that / so that”), expressing the desired outcome: that the addressees may possess peace “in me.” Mood is **subjunctive** because it depends on the purpose/result particle rather than stating a direct fact."
+    },
+    {
+      "verb": "ἔχετε",
+      "translation": "you have",
+      "summary": "ἔχετε is a **present active indicative, 2nd-person plural** form of ἔχω (“to have”). It introduces a declarative statement about the recipients’ present situation “in the world”: they are experiencing/holding to “affliction.” The indicative mood presents this as a real, observable condition."
+    },
+    {
+      "verb": "θαρσεῖτε",
+      "translation": "be of good courage / take heart",
+      "summary": "θαρσεῖτε is a **present active imperative, 2nd-person plural** form of θαρσέω (“to take courage”). In the sentence it appears after ἀλλὰ as a direct exhortation/command, contrasting with the preceding statement about tribulation. The imperative mood marks it as a request for action/attitude rather than a description of fact."
+    },
+    {
+      "verb": "νενίκηκα",
+      "translation": "I have overcome / I have conquered",
+      "summary": "νενίκηκα is a **perfect active indicative, 1st-person singular** form of νικάω (“to conquer, win”). It serves as the finite verb in the second main claim, contrasting with the believers’ tribulation: Christ speaks as victor, emphasizing a decisive victory that stands as present reality (“I have conquered the world”). Indicative mood states the truth of the claim."
+    }
+  ]
+}
