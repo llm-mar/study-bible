@@ -241,6 +241,7 @@ declare -a ANALYSIS_FILES=(
     "verb"
     "phrase"
     "translation"
+    "semiotics"
 )
 
 for file_base in "${ANALYSIS_FILES[@]}"; do
