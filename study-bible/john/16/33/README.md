@@ -23,7 +23,7 @@
 
 | goal |
 | --- |
-| To reassure and encourage the audience to remain steadfast by cultivating peace in Jesus and courage... |
+| To reassure and encourage the audience to remain steadfast by cultivating peace in Jesus and courage in the face of worldly tribulation, based on his victory over the world. |
 
 
 ## Question Analysis
@@ -68,12 +68,12 @@
 
 | interpretation |
 | --- |
-| The audience could understand this as assurance of “peace” that comes from being connected to Jesus ... |
-| They may have heard it as a realistic warning: life “in the world” will bring suffering to believers... |
-| “I have conquered the world” could be taken as a confident claim that Jesus’ victory (seen in his de... |
-| Some may have interpreted “peace” and “victory over the world” in a strongly spiritual or cosmic sen... |
-| The words could function as encouragement for imminent or ongoing conflict within the community: bel... |
-| Another likely reading is eschatological: the “world” represents the current age, which will be over... |
+| The audience could understand this as assurance of “peace” that comes from being connected to Jesus (i.e., not the peace of the surrounding society), given that hardship and pressure (“tribulation/affliction”) are expected as part of life in the present world. |
+| They may have heard it as a realistic warning: life “in the world” will bring suffering to believers, but Jesus’ words are meant to prevent despair and keep them steady during persecution or social hostility. |
+| “I have conquered the world” could be taken as a confident claim that Jesus’ victory (seen in his death/resurrection) guarantees ultimate triumph for his followers, so their present sufferings will not have the final say. |
+| Some may have interpreted “peace” and “victory over the world” in a strongly spiritual or cosmic sense: the world’s powers/pressures (human hostility, evil forces, worldly values) are real, yet Jesus has already defeated them, so believers can stand firm. |
+| The words could function as encouragement for imminent or ongoing conflict within the community: believers are told to take courage precisely because Jesus has secured a decisive outcome, making their endurance meaningful and not futile. |
+| Another likely reading is eschatological: the “world” represents the current age, which will be overcome by God through Jesus; therefore believers can live with hope and confidence now, even before the full end arrives. |
 
 
 ## Noun Analysis
@@ -82,9 +82,9 @@
 
 | noun | translation | summary |
 | --- | --- | --- |
-| εἰρήνη | peace | The speaker states that he has spoken these things to the listeners so that they may have peace in h... |
+| εἰρήνη | peace | The speaker states that he has spoken these things to the listeners so that they may have peace in him. |
 | θλῖψιν | tribulation; affliction | The listeners are described as having tribulation in the world. |
-| κόσμος | world | The world is presented as the place where the listeners experience tribulation, and the speaker clai... |
+| κόσμος | world | The world is presented as the place where the listeners experience tribulation, and the speaker claims that he has already won/overcome the world. |
 
 
 ## Verb Analysis
@@ -93,11 +93,11 @@
 
 | verb | translation | summary |
 | --- | --- | --- |
-| λελάληκα | have told / have spoken | λελάληκα is a **perfect active indicative** (1st person singular) of λαλέω. In the main clause it fu... |
-| ἔχητε | may have | ἔχητε is an **aorist?** actually **present active subjunctive** (2nd person plural) of ἔχω, used in ... |
-| ἔχετε | have / are experiencing | ἔχετε is a **present active indicative** (2nd person plural) of ἔχω. It states a general, ongoing re... |
-| θαρσεῖτε | take heart / be encouraged | θαρσεῖτε is a **present active imperative** (2nd person plural) of θαρσέω. It appears as a direct ex... |
-| νενίκηκα | have overcome / have won | νενίκηκα is a **perfect active indicative** (1st person singular) of νικάω. It serves as the finite ... |
+| λελάληκα | have told / have spoken | λελάληκα is a **perfect active indicative** (1st person singular) of λαλέω. In the main clause it functions as a finite verb that states a completed action with present relevance: “I have told you these things.” Semantically, the perfect emphasizes that the speech has lasting effect on the hearers (ὑμῖν). |
+| ἔχητε | may have | ἔχητε is an **aorist?** actually **present active subjunctive** (2nd person plural) of ἔχω, used in a purpose/result-type construction introduced by **ἵνα**. It forms the subordinate clause expressing the intended aim: “so that you may have peace in me.” The subjunctive mood marks a desired or intended outcome rather than a direct assertion. |
+| ἔχετε | have / are experiencing | ἔχετε is a **present active indicative** (2nd person plural) of ἔχω. It states a general, ongoing reality in an independent clause: “in the world you have tribulation.” The indicative mood and present tense convey that the pressure (θλῖψιν) is characteristic and currently experienced rather than a one-time event. |
+| θαρσεῖτε | take heart / be encouraged | θαρσεῖτε is a **present active imperative** (2nd person plural) of θαρσέω. It appears as a direct exhortation introduced by ἀλλά (“but/and”), commanding the audience to adopt a confident attitude: “but take heart.” Imperative mood means it functions to urge action/stance rather than to describe facts. |
+| νενίκηκα | have overcome / have won | νενίκηκα is a **perfect active indicative** (1st person singular) of νικάω. It serves as the finite verb in a climactic statement: “I have overcome the world.” The perfect tense highlights a decisive victory that has abiding significance in the present, presented in declarative (indicative) form to ground the preceding exhortation. |
 
 
 ## Phrase Analysis
@@ -106,13 +106,13 @@
 
 | phrase | translation | summary |
 | --- | --- | --- |
-| ταῦτα λελάληκα ὑμῖν | I have spoken these things to you. | The speaker says they have communicated these things directly to the listeners, indicating that the ... |
-| ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε | so that you may have peace in me. | The purpose of what was spoken is stated: the listeners are meant to possess/receive peace by being ... |
-| ἐν τῷ κόσμῳ θλῖψιν ἔχετε | In the world you have tribulation. | The speaker acknowledges that the listeners will experience or are experiencing distress/tribulation... |
-| ἀλλὰ θαρσεῖτε | but take heart / be encouraged. | The speaker urges the listeners to be courageous and encouraged despite the tribulation mentioned, g... |
-| ἐγὼ νενίκηκα τὸν κόσμον | I have overcome the world. | The speaker declares that he has already achieved victory over the world, presenting himself as havi... |
-| ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε. | I have spoken these things to you so that you may have peace in me. | The speaker frames the message they delivered as having the goal of enabling the listeners to hold/p... |
-| ἐν τῷ κόσμῳ θλῖψιν ἔχετε· ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον. | In the world you have tribulation; but take heart, I have overcome the world. | The speaker contrasts the listeners’ tribulation in the world with a command to be encouraged, groun... |
+| ταῦτα λελάληκα ὑμῖν | I have spoken these things to you. | The speaker says they have communicated these things directly to the listeners, indicating that the message is something already delivered and addressed to them. |
+| ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε | so that you may have peace in me. | The purpose of what was spoken is stated: the listeners are meant to possess/receive peace by being in the speaker (i.e., grounded in him). |
+| ἐν τῷ κόσμῳ θλῖψιν ἔχετε | In the world you have tribulation. | The speaker acknowledges that the listeners will experience or are experiencing distress/tribulation in the world, describing their current or expected condition in worldly life. |
+| ἀλλὰ θαρσεῖτε | but take heart / be encouraged. | The speaker urges the listeners to be courageous and encouraged despite the tribulation mentioned, giving an active instruction to maintain confidence. |
+| ἐγὼ νενίκηκα τὸν κόσμον | I have overcome the world. | The speaker declares that he has already achieved victory over the world, presenting himself as having overcome its influence or trials, which supports the encouragement to the listeners. |
+| ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε. | I have spoken these things to you so that you may have peace in me. | The speaker frames the message they delivered as having the goal of enabling the listeners to hold/possess peace in him. |
+| ἐν τῷ κόσμῳ θλῖψιν ἔχετε· ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον. | In the world you have tribulation; but take heart, I have overcome the world. | The speaker contrasts the listeners’ tribulation in the world with a command to be encouraged, grounded in his claim that he has already defeated/overcome the world. |
 
 
 ## Translation Analysis
@@ -125,7 +125,7 @@
 
 | translation | notes |
 | --- | --- |
-| I have spoken these things to you so that you may find peace in me. In the world you will have troub... | “Θλίψιν” can be rendered as “trouble” or “affliction,” and “θαρασεῖτε” as “be courageous.” “ἐν ἐμοὶ”... |
+| I have spoken these things to you so that you may find peace in me. In the world you will have trouble, but be courageous: I have overcome the world. | “Θλίψιν” can be rendered as “trouble” or “affliction,” and “θαρασεῖτε” as “be courageous.” “ἐν ἐμοὶ” is commonly understood as “in me,” but can also be phrased as “in/by finding peace in me” to reflect the sense of location/union. |
 
 **notes:**
 
@@ -141,7 +141,7 @@
 | symbol | meaning | psychological_role |
 | --- | --- | --- |
 | εἰρήνην (peace) | A state of inner wholeness/rest that exists “in” the speaker (ἐν ἐμοί). | Soothes anxiety by offering a stable inner ground rather than relying on external stability. |
-| ὁ κόσμος (the world) | The shared reality/sphere where conflict and pressures operate. | Names a threatening external force so the reader can psychologically locate the source of distress a... |
+| ὁ κόσμος (the world) | The shared reality/sphere where conflict and pressures operate. | Names a threatening external force so the reader can psychologically locate the source of distress and then challenge its power. |
 | θλῖψιν (tribulation/pressure) | Experiential suffering: stress, constraint, and emotional strain in lived reality. | Validates pain (normalizes suffering) and prevents the reader from feeling uniquely broken. |
 | θαρσεῖτε (take heart/be courageous) | An instruction to shift affect and action despite ongoing hardship. | Counteracts learned helplessness by demanding agency and hope in the face of uncertainty. |
 | ἐγὼ νενίκηκα (I have overcome) | Claim of prior victory that grounds present reassurance. | Replaces fear with protection through trust in an authority who is portrayed as already victorious. |
@@ -150,8 +150,8 @@
 
 | tension | significance |
 | --- | --- |
-| Peace is promised as an internal possession (ἐν ἐμοί), while tribulation is said to remain unavoidab... | Psychologically, it holds two truths at once: it refuses the fantasy that life will stop hurting, wh... |
-| The text commands courage (θαρσεῖτε) despite acknowledging ongoing pressure (θλῖψιν ἔχετε). | This tension can create a push-pull: readers may feel both permission to be distressed and pressure ... |
+| Peace is promised as an internal possession (ἐν ἐμοί), while tribulation is said to remain unavoidable “in the world.” | Psychologically, it holds two truths at once: it refuses the fantasy that life will stop hurting, while still insisting that meaning and safety can exist internally. |
+| The text commands courage (θαρσεῖτε) despite acknowledging ongoing pressure (θλῖψιν ἔχετε). | This tension can create a push-pull: readers may feel both permission to be distressed and pressure to perform hope—potentially producing emotional strain if the distress feels “not allowed.” |
 
 **surface_vs_hidden:**
   - **surface:** “I told you this so that you may have peace in me. In the world you have tribulation; but take heart, I have overcome the world.”
@@ -160,10 +160,10 @@
 
 | need | how_addressed |
 | --- | --- |
-| Anxiety relief without false optimism | It explicitly affirms ongoing tribulation while offering peace ‘in’ the speaker, separating sufferin... |
+| Anxiety relief without false optimism | It explicitly affirms ongoing tribulation while offering peace ‘in’ the speaker, separating suffering from ultimate safety. |
 | Validation of suffering | “In the world you have tribulation” grants recognition of hardship, reducing shame and isolation. |
-| A controllable sense of hope | “Take heart” is an action-oriented demand; hope is anchored in a completed victory (“I have overcome... |
-| Trust in protection by an authority | Victory is attributed to the speaker, turning uncertainty into reliance rather than self-reliant cop... |
+| A controllable sense of hope | “Take heart” is an action-oriented demand; hope is anchored in a completed victory (“I have overcome”). |
+| Trust in protection by an authority | Victory is attributed to the speaker, turning uncertainty into reliance rather than self-reliant coping. |
 
 **what_is_unsaid:**
   - **gaps:** The text does not explain how the promised peace is experienced in the moment (what practices, timing, or psychological process produces it). It also does not clarify what happens if someone still cannot feel peace.
@@ -175,5 +175,5 @@
 
 ---
 
-**Generated:** Tue May 26 23:06:47 -03 2026
+**Generated:** Tue May 26 23:09:08 -03 2026
 **Source Directory:** /root/study-bible/study-bible/john/16/33

@@ -93,24 +93,18 @@ try:
         \"\"\"Create a markdown table from list of dicts\"\"\"
         result = []
         
-        # Limit column width for very long text
-        max_col_width = 150
-        
         # Header
         header = '| ' + ' | '.join(columns) + ' |'
         separator = '|' + '|'.join([' --- ' for _ in columns]) + '|'
         result.append(header)
         result.append(separator)
         
-        # Rows - truncate long values to prevent table breaks
+        # Rows - no truncation
         for item in items:
             row_vals = []
             for col in columns:
                 val = item.get(col, '')
                 val_str = str(val)
-                # For very long content, keep it but don't break it
-                if len(val_str) > max_col_width:
-                    val_str = val_str[:max_col_width] + '...'
                 # Escape pipes in content
                 val_str = val_str.replace('|', r'\|')
                 row_vals.append(val_str)
