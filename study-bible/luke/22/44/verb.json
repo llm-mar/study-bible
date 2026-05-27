@@ -1,0 +1,24 @@
+{
+  "verbs": [
+    {
+      "verb": "γενόμενος",
+      "translation": "having become / being",
+      "summary": "γενόμενος is an aorist middle/passive participle of γίνομαι (deponent), masculine singular nominative, used as a circumstantial participle with the main action. It sets the background state (“and when/while he was in agony”) for the subsequent verb, functioning adverbially to indicate the condition under which the praying occurs."
+    },
+    {
+      "verb": "προσηύχετο",
+      "translation": "he prayed",
+      "summary": "προσηύχετο is a 3rd person singular imperfect middle (deponent) indicative of προσεύχομαι. The imperfect form presents the praying as an ongoing, repeated, or sustained action in the past (“he kept praying”), and the adverb ἐκτενέστερον (“more earnestly”) intensifies the manner of that prayer. It is the main finite verb governing the clause."
+    },
+    {
+      "verb": "ἐγένετο",
+      "translation": "there became / it happened",
+      "summary": "ἐγένετο is a 3rd person singular aorist middle (deponent) indicative of γίνομαι. It introduces a narrative result or event (“and there occurred/it became”), often with the sense of coming into being. Here it connects to the subject ὁ ἱδρὼς (“his sweat”), stating what his sweat was like."
+    },
+    {
+      "verb": "καταβαίνοντες",
+      "translation": "falling",
+      "summary": "καταβαίνοντες is a present active participle, masculine nominative plural, of καταβαίνω. Grammatically it modifies ὡσεὶ θρόμβοι ἀἵματος (“as clots of blood”), describing them/sweat as characterized by the action of “falling down.” Semantically it provides descriptive, simultaneous background (present participle) to the comparison introduced by ἐγένετο."
+    }
+  ]
+}

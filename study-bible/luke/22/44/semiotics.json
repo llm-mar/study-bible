@@ -1,0 +1,80 @@
+{
+  "semiotic_analysis": {
+    "key_symbols": [
+      {
+        "symbol": "ἀγωνία / agony",
+        "meaning": "Extreme inner distress, pressure, and fear.",
+        "psychological_role": "Helps legitimize vulnerability; gives permission to feel overwhelmed while still functioning."
+      },
+      {
+        "symbol": "προσηύχετο / prayed",
+        "meaning": "Turning inward and seeking help/meaning through a relational act (appeal to God).",
+        "psychological_role": "Provides emotional containment—transforming helplessness into purposeful action."
+      },
+      {
+        "symbol": "ἐκτενέστερον / more earnestly",
+        "meaning": "Escalation of effort in response to worsening distress.",
+        "psychological_role": "Reasserts control through increased commitment; reduces chaos by creating a clear “next step.”"
+      },
+      {
+        "symbol": "ἱδρὼς / sweat",
+        "meaning": "A bodily sign of intense strain.",
+        "psychological_role": "Externalizes inner conflict—making fear tangible and ‘real,’ which can reassure or mobilize the audience."
+      },
+      {
+        "symbol": "θρόμβοι αἵματος / clots of blood",
+        "meaning": "Sweat that resembles blood, implying near-lethal cost.",
+        "psychological_role": "Communicates sacrifice and total seriousness; binds the listener’s emotions to the gravity of what is being endured."
+      },
+      {
+        "symbol": "καταβαίνοντες ἐπὶ τὴν γῆν / falling to the ground",
+        "meaning": "Grounding/visible descent.",
+        "psychological_role": "Creates a sense of consequence: suffering isn’t abstract; it impacts the physical world."
+      }
+    ],
+    "contradictions": [
+      {
+        "tension": "Prayer (often imagined as comfort) occurs during peak terror.",
+        "significance": "Psychologically reframes “faith” not as relief, but as endurance—reducing the idealization that belief should always feel good."
+      },
+      {
+        "tension": "More earnestly vs limited efficacy implied by the bodily extremity.",
+        "significance": "Highlights a tension between effort and threat; suggests the narrator emphasizes seriousness even when outcomes are uncertain."
+      },
+      {
+        "tension": "Sweat (life-preserving) becomes blood-like (life-threatening).",
+        "significance": "Shows escalation from ordinary stress to existential risk; increases urgency and emotional intensity for the reader."
+      }
+    ],
+    "surface_vs_hidden": {
+      "surface": "In agony, the person prays more earnestly; his sweat becomes blood-like drops falling to the ground.",
+      "hidden": "The text portrays suffering as both inner (agony) and material (blood-like sweat), suggesting that true meaning is created through costly commitment—not through emotional safety. Prayer functions as a psychological bridge between terror and action, while the imagery insists the crisis is real, not symbolic."
+    },
+    "psychological_needs": [
+      {
+        "need": "Contain overwhelming fear",
+        "how_addressed": "Agony is named, then channeled into prayer; the escalation (“more earnestly”) organizes panic into an intentional response."
+      },
+      {
+        "need": "Assurance of seriousness/real consequence",
+        "how_addressed": "Extreme bodily imagery (sweat like clots of blood) signals that what’s happening is not metaphorical; it demands the audience’s emotional respect."
+      },
+      {
+        "need": "A way to act when control is limited",
+        "how_addressed": "Prayer replaces helplessness with an active practice, implying that meaning can be created even without changing circumstances immediately."
+      },
+      {
+        "need": "Relational connection in crisis",
+        "how_addressed": "Praying implies turning toward a “Other” (God), offering psychological support through relationship rather than isolation."
+      }
+    ],
+    "what_is_unsaid": {
+      "gaps": "What, specifically, the person fears or requests is not stated; the narration focuses on the intensity and its bodily expression rather than on the content of prayer. Also unsaid: whether relief occurs, or how soon; the passage emphasizes the cost rather than the payoff.",
+      "examples": "1) “ἐν ἀγωνίᾳ” names distress without giving the cause. 2) “προσηύχετο… ἐκτενέστερον” shows increased effort without quoting the words of prayer. 3) The transformation “ὡσεὶ θρόμβοι αἵματος” is described visually, but the reader is not told the outcome."
+    },
+    "emotional_tone": {
+      "tone": "Grave, intimate, and physically vivid—terror held within reverent striving.",
+      "intended_effect": "To generate awe and emotional urgency: the reader feels the crisis is authentic, and that devotion/prayer is costly, not comfortable."
+    }
+  }
+}
